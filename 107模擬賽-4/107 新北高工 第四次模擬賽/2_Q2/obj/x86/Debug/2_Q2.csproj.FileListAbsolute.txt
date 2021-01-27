@@ -1,0 +1,8 @@
+C:\Users\STDA\Desktop\107-4\2_Q2\bin\Debug\2_Q2.exe
+C:\Users\STDA\Desktop\107-4\2_Q2\bin\Debug\2_Q2.pdb
+C:\Users\STDA\Desktop\107-4\2_Q2\obj\x86\Debug\_2_Q2.Form1.resources
+C:\Users\STDA\Desktop\107-4\2_Q2\obj\x86\Debug\_2_Q2.Properties.Resources.resources
+C:\Users\STDA\Desktop\107-4\2_Q2\obj\x86\Debug\2_Q2.csproj.GenerateResource.Cache
+C:\Users\STDA\Desktop\107-4\2_Q2\obj\x86\Debug\2_Q2.exe
+C:\Users\STDA\Desktop\107-4\2_Q2\obj\x86\Debug\2_Q2.pdb
+C:\Users\STDA\Desktop\107-4\2_Q2\obj\x86\Debug\2_Q2.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Users\STDA\Desktop\陳昀鴻\08_Q6\08_Q6\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\STDA\Desktop\陳昀鴻\08_Q6\08_Q6\obj\x86\Debug\08_Q6.vbproj.GenerateResource.Cache
+C:\Users\STDA\Desktop\陳昀鴻\08_Q6\08_Q6\bin\Debug\08_Q6.exe
+C:\Users\STDA\Desktop\陳昀鴻\08_Q6\08_Q6\bin\Debug\08_Q6.pdb
+C:\Users\STDA\Desktop\陳昀鴻\08_Q6\08_Q6\bin\Debug\08_Q6.xml
+C:\Users\STDA\Desktop\陳昀鴻\08_Q6\08_Q6\obj\x86\Debug\08_Q6.exe
+C:\Users\STDA\Desktop\陳昀鴻\08_Q6\08_Q6\obj\x86\Debug\08_Q6.xml
+C:\Users\STDA\Desktop\陳昀鴻\08_Q6\08_Q6\obj\x86\Debug\08_Q6.pdb

@@ -1,0 +1,10 @@
+C:\Users\YunHong\Desktop\工科程式設計\105年模擬二(家和屆)\試題四：繁分數換成分數\試題四：繁分數換成分數\bin\Debug\試題四：繁分數換成分數.exe.config
+C:\Users\YunHong\Desktop\工科程式設計\105年模擬二(家和屆)\試題四：繁分數換成分數\試題四：繁分數換成分數\bin\Debug\試題四：繁分數換成分數.exe
+C:\Users\YunHong\Desktop\工科程式設計\105年模擬二(家和屆)\試題四：繁分數換成分數\試題四：繁分數換成分數\bin\Debug\試題四：繁分數換成分數.pdb
+C:\Users\YunHong\Desktop\工科程式設計\105年模擬二(家和屆)\試題四：繁分數換成分數\試題四：繁分數換成分數\bin\Debug\試題四：繁分數換成分數.xml
+C:\Users\YunHong\Desktop\工科程式設計\105年模擬二(家和屆)\試題四：繁分數換成分數\試題四：繁分數換成分數\obj\Debug\WindowsApplication2.Form1.resources
+C:\Users\YunHong\Desktop\工科程式設計\105年模擬二(家和屆)\試題四：繁分數換成分數\試題四：繁分數換成分數\obj\Debug\WindowsApplication2.Resources.resources
+C:\Users\YunHong\Desktop\工科程式設計\105年模擬二(家和屆)\試題四：繁分數換成分數\試題四：繁分數換成分數\obj\Debug\試題四：繁分數換成分數.vbproj.GenerateResource.Cache
+C:\Users\YunHong\Desktop\工科程式設計\105年模擬二(家和屆)\試題四：繁分數換成分數\試題四：繁分數換成分數\obj\Debug\試題四：繁分數換成分數.exe
+C:\Users\YunHong\Desktop\工科程式設計\105年模擬二(家和屆)\試題四：繁分數換成分數\試題四：繁分數換成分數\obj\Debug\試題四：繁分數換成分數.xml
+C:\Users\YunHong\Desktop\工科程式設計\105年模擬二(家和屆)\試題四：繁分數換成分數\試題四：繁分數換成分數\obj\Debug\試題四：繁分數換成分數.pdb

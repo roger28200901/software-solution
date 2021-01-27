@@ -1,0 +1,11 @@
+C:\Users\YunHong\Desktop\工科程式設計\104年\試題一：數獨 4X4 遊戲程式設計\試題一：數獨 4X4 遊戲程式設計\bin\Debug\試題一：數獨 4X4 遊戲程式設計.exe.config
+C:\Users\YunHong\Desktop\工科程式設計\104年\試題一：數獨 4X4 遊戲程式設計\試題一：數獨 4X4 遊戲程式設計\bin\Debug\試題一：數獨 4X4 遊戲程式設計.exe
+C:\Users\YunHong\Desktop\工科程式設計\104年\試題一：數獨 4X4 遊戲程式設計\試題一：數獨 4X4 遊戲程式設計\bin\Debug\試題一：數獨 4X4 遊戲程式設計.pdb
+C:\Users\YunHong\Desktop\工科程式設計\104年\試題一：數獨 4X4 遊戲程式設計\試題一：數獨 4X4 遊戲程式設計\bin\Debug\試題一：數獨 4X4 遊戲程式設計.xml
+C:\Users\YunHong\Desktop\工科程式設計\104年\試題一：數獨 4X4 遊戲程式設計\試題一：數獨 4X4 遊戲程式設計\obj\Debug\試題一：數獨 4X4 遊戲程式設計.vbprojResolveAssemblyReference.cache
+C:\Users\YunHong\Desktop\工科程式設計\104年\試題一：數獨 4X4 遊戲程式設計\試題一：數獨 4X4 遊戲程式設計\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\YunHong\Desktop\工科程式設計\104年\試題一：數獨 4X4 遊戲程式設計\試題一：數獨 4X4 遊戲程式設計\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\YunHong\Desktop\工科程式設計\104年\試題一：數獨 4X4 遊戲程式設計\試題一：數獨 4X4 遊戲程式設計\obj\Debug\試題一：數獨 4X4 遊戲程式設計.vbproj.GenerateResource.Cache
+C:\Users\YunHong\Desktop\工科程式設計\104年\試題一：數獨 4X4 遊戲程式設計\試題一：數獨 4X4 遊戲程式設計\obj\Debug\試題一：數獨 4X4 遊戲程式設計.exe
+C:\Users\YunHong\Desktop\工科程式設計\104年\試題一：數獨 4X4 遊戲程式設計\試題一：數獨 4X4 遊戲程式設計\obj\Debug\試題一：數獨 4X4 遊戲程式設計.xml
+C:\Users\YunHong\Desktop\工科程式設計\104年\試題一：數獨 4X4 遊戲程式設計\試題一：數獨 4X4 遊戲程式設計\obj\Debug\試題一：數獨 4X4 遊戲程式設計.pdb

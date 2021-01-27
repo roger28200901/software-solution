@@ -1,0 +1,11 @@
+C:\Users\USER\Desktop\工科程式設計\陳昀鴻_Contest\陳昀鴻_Q6\陳昀鴻_Q6\bin\Debug\陳昀鴻_Q6.exe.config
+C:\Users\USER\Desktop\工科程式設計\陳昀鴻_Contest\陳昀鴻_Q6\陳昀鴻_Q6\bin\Debug\陳昀鴻_Q6.exe
+C:\Users\USER\Desktop\工科程式設計\陳昀鴻_Contest\陳昀鴻_Q6\陳昀鴻_Q6\bin\Debug\陳昀鴻_Q6.pdb
+C:\Users\USER\Desktop\工科程式設計\陳昀鴻_Contest\陳昀鴻_Q6\陳昀鴻_Q6\bin\Debug\陳昀鴻_Q6.xml
+C:\Users\USER\Desktop\工科程式設計\陳昀鴻_Contest\陳昀鴻_Q6\陳昀鴻_Q6\obj\Debug\陳昀鴻_Q6.vbprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\工科程式設計\陳昀鴻_Contest\陳昀鴻_Q6\陳昀鴻_Q6\obj\Debug\陳昀鴻_Q6.Form1.resources
+C:\Users\USER\Desktop\工科程式設計\陳昀鴻_Contest\陳昀鴻_Q6\陳昀鴻_Q6\obj\Debug\陳昀鴻_Q6.Resources.resources
+C:\Users\USER\Desktop\工科程式設計\陳昀鴻_Contest\陳昀鴻_Q6\陳昀鴻_Q6\obj\Debug\陳昀鴻_Q6.vbproj.GenerateResource.Cache
+C:\Users\USER\Desktop\工科程式設計\陳昀鴻_Contest\陳昀鴻_Q6\陳昀鴻_Q6\obj\Debug\陳昀鴻_Q6.exe
+C:\Users\USER\Desktop\工科程式設計\陳昀鴻_Contest\陳昀鴻_Q6\陳昀鴻_Q6\obj\Debug\陳昀鴻_Q6.xml
+C:\Users\USER\Desktop\工科程式設計\陳昀鴻_Contest\陳昀鴻_Q6\陳昀鴻_Q6\obj\Debug\陳昀鴻_Q6.pdb

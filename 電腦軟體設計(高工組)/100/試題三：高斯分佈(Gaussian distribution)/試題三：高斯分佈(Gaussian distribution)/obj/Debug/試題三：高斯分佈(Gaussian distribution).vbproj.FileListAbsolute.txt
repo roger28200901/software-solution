@@ -1,0 +1,11 @@
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\100\試題三：高斯分佈(Gaussian distribution)\試題三：高斯分佈(Gaussian distribution)\bin\Debug\試題三：高斯分佈(Gaussian distribution).exe.config
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\100\試題三：高斯分佈(Gaussian distribution)\試題三：高斯分佈(Gaussian distribution)\bin\Debug\試題三：高斯分佈(Gaussian distribution).exe
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\100\試題三：高斯分佈(Gaussian distribution)\試題三：高斯分佈(Gaussian distribution)\bin\Debug\試題三：高斯分佈(Gaussian distribution).pdb
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\100\試題三：高斯分佈(Gaussian distribution)\試題三：高斯分佈(Gaussian distribution)\bin\Debug\試題三：高斯分佈(Gaussian distribution).xml
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\100\試題三：高斯分佈(Gaussian distribution)\試題三：高斯分佈(Gaussian distribution)\obj\Debug\試題三：高斯分佈(Gaussian distribution).vbprojResolveAssemblyReference.cache
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\100\試題三：高斯分佈(Gaussian distribution)\試題三：高斯分佈(Gaussian distribution)\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\100\試題三：高斯分佈(Gaussian distribution)\試題三：高斯分佈(Gaussian distribution)\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\100\試題三：高斯分佈(Gaussian distribution)\試題三：高斯分佈(Gaussian distribution)\obj\Debug\試題三：高斯分佈(Gaussian distribution).vbproj.GenerateResource.Cache
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\100\試題三：高斯分佈(Gaussian distribution)\試題三：高斯分佈(Gaussian distribution)\obj\Debug\試題三：高斯分佈(Gaussian distribution).exe
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\100\試題三：高斯分佈(Gaussian distribution)\試題三：高斯分佈(Gaussian distribution)\obj\Debug\試題三：高斯分佈(Gaussian distribution).xml
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\100\試題三：高斯分佈(Gaussian distribution)\試題三：高斯分佈(Gaussian distribution)\obj\Debug\試題三：高斯分佈(Gaussian distribution).pdb

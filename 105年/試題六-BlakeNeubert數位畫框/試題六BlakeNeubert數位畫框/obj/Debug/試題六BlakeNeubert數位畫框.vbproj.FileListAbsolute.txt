@@ -1,0 +1,11 @@
+C:\Users\YunHong\Desktop\工科程式設計\105年\試題六BlakeNeubert數位畫框\試題六BlakeNeubert數位畫框\bin\Debug\試題六BlakeNeubert數位畫框.exe.config
+C:\Users\YunHong\Desktop\工科程式設計\105年\試題六BlakeNeubert數位畫框\試題六BlakeNeubert數位畫框\bin\Debug\試題六BlakeNeubert數位畫框.exe
+C:\Users\YunHong\Desktop\工科程式設計\105年\試題六BlakeNeubert數位畫框\試題六BlakeNeubert數位畫框\bin\Debug\試題六BlakeNeubert數位畫框.pdb
+C:\Users\YunHong\Desktop\工科程式設計\105年\試題六BlakeNeubert數位畫框\試題六BlakeNeubert數位畫框\bin\Debug\試題六BlakeNeubert數位畫框.xml
+C:\Users\YunHong\Desktop\工科程式設計\105年\試題六BlakeNeubert數位畫框\試題六BlakeNeubert數位畫框\obj\Debug\試題六BlakeNeubert數位畫框.vbprojResolveAssemblyReference.cache
+C:\Users\YunHong\Desktop\工科程式設計\105年\試題六BlakeNeubert數位畫框\試題六BlakeNeubert數位畫框\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\YunHong\Desktop\工科程式設計\105年\試題六BlakeNeubert數位畫框\試題六BlakeNeubert數位畫框\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\YunHong\Desktop\工科程式設計\105年\試題六BlakeNeubert數位畫框\試題六BlakeNeubert數位畫框\obj\Debug\試題六BlakeNeubert數位畫框.vbproj.GenerateResource.Cache
+C:\Users\YunHong\Desktop\工科程式設計\105年\試題六BlakeNeubert數位畫框\試題六BlakeNeubert數位畫框\obj\Debug\試題六BlakeNeubert數位畫框.exe
+C:\Users\YunHong\Desktop\工科程式設計\105年\試題六BlakeNeubert數位畫框\試題六BlakeNeubert數位畫框\obj\Debug\試題六BlakeNeubert數位畫框.xml
+C:\Users\YunHong\Desktop\工科程式設計\105年\試題六BlakeNeubert數位畫框\試題六BlakeNeubert數位畫框\obj\Debug\試題六BlakeNeubert數位畫框.pdb

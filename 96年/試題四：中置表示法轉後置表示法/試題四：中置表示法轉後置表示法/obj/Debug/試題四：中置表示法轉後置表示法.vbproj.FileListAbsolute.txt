@@ -1,0 +1,11 @@
+C:\Users\YunHong\Desktop\工科程式設計\96年\試題四：中置表示法轉後置表示法\試題四：中置表示法轉後置表示法\bin\Debug\試題四：中置表示法轉後置表示法.exe.config
+C:\Users\YunHong\Desktop\工科程式設計\96年\試題四：中置表示法轉後置表示法\試題四：中置表示法轉後置表示法\bin\Debug\試題四：中置表示法轉後置表示法.exe
+C:\Users\YunHong\Desktop\工科程式設計\96年\試題四：中置表示法轉後置表示法\試題四：中置表示法轉後置表示法\bin\Debug\試題四：中置表示法轉後置表示法.pdb
+C:\Users\YunHong\Desktop\工科程式設計\96年\試題四：中置表示法轉後置表示法\試題四：中置表示法轉後置表示法\bin\Debug\試題四：中置表示法轉後置表示法.xml
+C:\Users\YunHong\Desktop\工科程式設計\96年\試題四：中置表示法轉後置表示法\試題四：中置表示法轉後置表示法\obj\Debug\試題四：中置表示法轉後置表示法.vbprojResolveAssemblyReference.cache
+C:\Users\YunHong\Desktop\工科程式設計\96年\試題四：中置表示法轉後置表示法\試題四：中置表示法轉後置表示法\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\YunHong\Desktop\工科程式設計\96年\試題四：中置表示法轉後置表示法\試題四：中置表示法轉後置表示法\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\YunHong\Desktop\工科程式設計\96年\試題四：中置表示法轉後置表示法\試題四：中置表示法轉後置表示法\obj\Debug\試題四：中置表示法轉後置表示法.vbproj.GenerateResource.Cache
+C:\Users\YunHong\Desktop\工科程式設計\96年\試題四：中置表示法轉後置表示法\試題四：中置表示法轉後置表示法\obj\Debug\試題四：中置表示法轉後置表示法.exe
+C:\Users\YunHong\Desktop\工科程式設計\96年\試題四：中置表示法轉後置表示法\試題四：中置表示法轉後置表示法\obj\Debug\試題四：中置表示法轉後置表示法.xml
+C:\Users\YunHong\Desktop\工科程式設計\96年\試題四：中置表示法轉後置表示法\試題四：中置表示法轉後置表示法\obj\Debug\試題四：中置表示法轉後置表示法.pdb

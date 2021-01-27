@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\99年\WindowsApplication4 - 未完成 (bug fix)\WindowsApplication4 - 未完成 (bug fix)\bin\Debug\WindowsApplication4 - 未完成 (bug fix).exe
+C:\Users\user\Desktop\99年\WindowsApplication4 - 未完成 (bug fix)\WindowsApplication4 - 未完成 (bug fix)\bin\Debug\WindowsApplication4 - 未完成 (bug fix).pdb
+C:\Users\user\Desktop\99年\WindowsApplication4 - 未完成 (bug fix)\WindowsApplication4 - 未完成 (bug fix)\bin\Debug\WindowsApplication4 - 未完成 (bug fix).xml
+C:\Users\user\Desktop\99年\WindowsApplication4 - 未完成 (bug fix)\WindowsApplication4 - 未完成 (bug fix)\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\user\Desktop\99年\WindowsApplication4 - 未完成 (bug fix)\WindowsApplication4 - 未完成 (bug fix)\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\user\Desktop\99年\WindowsApplication4 - 未完成 (bug fix)\WindowsApplication4 - 未完成 (bug fix)\obj\x86\Debug\WindowsApplication4 - 未完成 (bug fix).vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\99年\WindowsApplication4 - 未完成 (bug fix)\WindowsApplication4 - 未完成 (bug fix)\obj\x86\Debug\WindowsApplication4 - 未完成 (bug fix).exe
+C:\Users\user\Desktop\99年\WindowsApplication4 - 未完成 (bug fix)\WindowsApplication4 - 未完成 (bug fix)\obj\x86\Debug\WindowsApplication4 - 未完成 (bug fix).xml
+C:\Users\user\Desktop\99年\WindowsApplication4 - 未完成 (bug fix)\WindowsApplication4 - 未完成 (bug fix)\obj\x86\Debug\WindowsApplication4 - 未完成 (bug fix).pdb

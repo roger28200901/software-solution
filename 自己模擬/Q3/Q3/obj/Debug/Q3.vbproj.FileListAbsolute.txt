@@ -1,0 +1,11 @@
+C:\Users\YunHong\Desktop\工科程式設計\自己模擬\Q3\Q3\bin\Debug\Q3.exe.config
+C:\Users\YunHong\Desktop\工科程式設計\自己模擬\Q3\Q3\bin\Debug\Q3.exe
+C:\Users\YunHong\Desktop\工科程式設計\自己模擬\Q3\Q3\bin\Debug\Q3.pdb
+C:\Users\YunHong\Desktop\工科程式設計\自己模擬\Q3\Q3\bin\Debug\Q3.xml
+C:\Users\YunHong\Desktop\工科程式設計\自己模擬\Q3\Q3\obj\Debug\Q3.vbprojResolveAssemblyReference.cache
+C:\Users\YunHong\Desktop\工科程式設計\自己模擬\Q3\Q3\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\YunHong\Desktop\工科程式設計\自己模擬\Q3\Q3\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\YunHong\Desktop\工科程式設計\自己模擬\Q3\Q3\obj\Debug\Q3.vbproj.GenerateResource.Cache
+C:\Users\YunHong\Desktop\工科程式設計\自己模擬\Q3\Q3\obj\Debug\Q3.exe
+C:\Users\YunHong\Desktop\工科程式設計\自己模擬\Q3\Q3\obj\Debug\Q3.xml
+C:\Users\YunHong\Desktop\工科程式設計\自己模擬\Q3\Q3\obj\Debug\Q3.pdb

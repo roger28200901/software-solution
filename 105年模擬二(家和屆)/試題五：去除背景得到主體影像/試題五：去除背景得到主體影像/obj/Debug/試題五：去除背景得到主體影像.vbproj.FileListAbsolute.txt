@@ -1,0 +1,10 @@
+C:\Users\YunHong\Desktop\工科程式設計\105年模擬二(家和屆)\試題五：去除背景得到主體影像\試題五：去除背景得到主體影像\bin\Debug\試題五：去除背景得到主體影像.exe.config
+C:\Users\YunHong\Desktop\工科程式設計\105年模擬二(家和屆)\試題五：去除背景得到主體影像\試題五：去除背景得到主體影像\bin\Debug\試題五：去除背景得到主體影像.exe
+C:\Users\YunHong\Desktop\工科程式設計\105年模擬二(家和屆)\試題五：去除背景得到主體影像\試題五：去除背景得到主體影像\bin\Debug\試題五：去除背景得到主體影像.pdb
+C:\Users\YunHong\Desktop\工科程式設計\105年模擬二(家和屆)\試題五：去除背景得到主體影像\試題五：去除背景得到主體影像\bin\Debug\試題五：去除背景得到主體影像.xml
+C:\Users\YunHong\Desktop\工科程式設計\105年模擬二(家和屆)\試題五：去除背景得到主體影像\試題五：去除背景得到主體影像\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\YunHong\Desktop\工科程式設計\105年模擬二(家和屆)\試題五：去除背景得到主體影像\試題五：去除背景得到主體影像\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\YunHong\Desktop\工科程式設計\105年模擬二(家和屆)\試題五：去除背景得到主體影像\試題五：去除背景得到主體影像\obj\Debug\試題五：去除背景得到主體影像.vbproj.GenerateResource.Cache
+C:\Users\YunHong\Desktop\工科程式設計\105年模擬二(家和屆)\試題五：去除背景得到主體影像\試題五：去除背景得到主體影像\obj\Debug\試題五：去除背景得到主體影像.exe
+C:\Users\YunHong\Desktop\工科程式設計\105年模擬二(家和屆)\試題五：去除背景得到主體影像\試題五：去除背景得到主體影像\obj\Debug\試題五：去除背景得到主體影像.xml
+C:\Users\YunHong\Desktop\工科程式設計\105年模擬二(家和屆)\試題五：去除背景得到主體影像\試題五：去除背景得到主體影像\obj\Debug\試題五：去除背景得到主體影像.pdb

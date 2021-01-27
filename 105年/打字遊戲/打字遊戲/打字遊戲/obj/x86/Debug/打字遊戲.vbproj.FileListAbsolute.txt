@@ -1,0 +1,8 @@
+C:\Users\USER\Desktop\工科程式設計\105年\打字遊戲\打字遊戲\打字遊戲\bin\Debug\打字遊戲.exe
+C:\Users\USER\Desktop\工科程式設計\105年\打字遊戲\打字遊戲\打字遊戲\bin\Debug\打字遊戲.pdb
+C:\Users\USER\Desktop\工科程式設計\105年\打字遊戲\打字遊戲\打字遊戲\bin\Debug\打字遊戲.xml
+C:\Users\USER\Desktop\工科程式設計\105年\打字遊戲\打字遊戲\打字遊戲\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\USER\Desktop\工科程式設計\105年\打字遊戲\打字遊戲\打字遊戲\obj\x86\Debug\打字遊戲.vbproj.GenerateResource.Cache
+C:\Users\USER\Desktop\工科程式設計\105年\打字遊戲\打字遊戲\打字遊戲\obj\x86\Debug\打字遊戲.exe
+C:\Users\USER\Desktop\工科程式設計\105年\打字遊戲\打字遊戲\打字遊戲\obj\x86\Debug\打字遊戲.xml
+C:\Users\USER\Desktop\工科程式設計\105年\打字遊戲\打字遊戲\打字遊戲\obj\x86\Debug\打字遊戲.pdb

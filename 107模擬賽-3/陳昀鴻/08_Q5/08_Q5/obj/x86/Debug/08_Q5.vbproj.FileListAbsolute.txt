@@ -1,0 +1,9 @@
+C:\Users\STDA\Desktop\陳昀鴻\08_Q5\08_Q5\bin\Debug\08_Q5.exe
+C:\Users\STDA\Desktop\陳昀鴻\08_Q5\08_Q5\bin\Debug\08_Q5.pdb
+C:\Users\STDA\Desktop\陳昀鴻\08_Q5\08_Q5\bin\Debug\08_Q5.xml
+C:\Users\STDA\Desktop\陳昀鴻\08_Q5\08_Q5\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\STDA\Desktop\陳昀鴻\08_Q5\08_Q5\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\STDA\Desktop\陳昀鴻\08_Q5\08_Q5\obj\x86\Debug\08_Q5.vbproj.GenerateResource.Cache
+C:\Users\STDA\Desktop\陳昀鴻\08_Q5\08_Q5\obj\x86\Debug\08_Q5.exe
+C:\Users\STDA\Desktop\陳昀鴻\08_Q5\08_Q5\obj\x86\Debug\08_Q5.xml
+C:\Users\STDA\Desktop\陳昀鴻\08_Q5\08_Q5\obj\x86\Debug\08_Q5.pdb

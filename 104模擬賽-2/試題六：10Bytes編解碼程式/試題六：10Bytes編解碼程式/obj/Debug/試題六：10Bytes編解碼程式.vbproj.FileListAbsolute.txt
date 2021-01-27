@@ -1,0 +1,11 @@
+C:\Users\YunHong\Desktop\104模擬賽-2\試題六：10Bytes編解碼程式\試題六：10Bytes編解碼程式\bin\Debug\試題六：10Bytes編解碼程式.exe.config
+C:\Users\YunHong\Desktop\104模擬賽-2\試題六：10Bytes編解碼程式\試題六：10Bytes編解碼程式\bin\Debug\試題六：10Bytes編解碼程式.exe
+C:\Users\YunHong\Desktop\104模擬賽-2\試題六：10Bytes編解碼程式\試題六：10Bytes編解碼程式\bin\Debug\試題六：10Bytes編解碼程式.pdb
+C:\Users\YunHong\Desktop\104模擬賽-2\試題六：10Bytes編解碼程式\試題六：10Bytes編解碼程式\bin\Debug\試題六：10Bytes編解碼程式.xml
+C:\Users\YunHong\Desktop\104模擬賽-2\試題六：10Bytes編解碼程式\試題六：10Bytes編解碼程式\obj\Debug\試題六：10Bytes編解碼程式.vbprojResolveAssemblyReference.cache
+C:\Users\YunHong\Desktop\104模擬賽-2\試題六：10Bytes編解碼程式\試題六：10Bytes編解碼程式\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\YunHong\Desktop\104模擬賽-2\試題六：10Bytes編解碼程式\試題六：10Bytes編解碼程式\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\YunHong\Desktop\104模擬賽-2\試題六：10Bytes編解碼程式\試題六：10Bytes編解碼程式\obj\Debug\試題六：10Bytes編解碼程式.vbproj.GenerateResource.Cache
+C:\Users\YunHong\Desktop\104模擬賽-2\試題六：10Bytes編解碼程式\試題六：10Bytes編解碼程式\obj\Debug\試題六：10Bytes編解碼程式.exe
+C:\Users\YunHong\Desktop\104模擬賽-2\試題六：10Bytes編解碼程式\試題六：10Bytes編解碼程式\obj\Debug\試題六：10Bytes編解碼程式.xml
+C:\Users\YunHong\Desktop\104模擬賽-2\試題六：10Bytes編解碼程式\試題六：10Bytes編解碼程式\obj\Debug\試題六：10Bytes編解碼程式.pdb

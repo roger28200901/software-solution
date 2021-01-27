@@ -1,0 +1,1 @@
+C:\Users\YunHong\Desktop\工科程式設計\105年模擬一(家和屆)\試題六：迷宮搜尋系統(非stack版本)\試題六：迷宮搜尋系統(非stack版本)\bin\Debug\試題六：迷宮搜尋系統(非stack版本).exe.config

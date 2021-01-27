@@ -1,0 +1,9 @@
+C:\Users\USER\Desktop\工科程式設計\89年\試題一-圓儀閃光系統\試題一-圓儀閃光系統\bin\Debug\試題一-圓儀閃光系統.exe
+C:\Users\USER\Desktop\工科程式設計\89年\試題一-圓儀閃光系統\試題一-圓儀閃光系統\bin\Debug\試題一-圓儀閃光系統.pdb
+C:\Users\USER\Desktop\工科程式設計\89年\試題一-圓儀閃光系統\試題一-圓儀閃光系統\bin\Debug\試題一-圓儀閃光系統.xml
+C:\Users\USER\Desktop\工科程式設計\89年\試題一-圓儀閃光系統\試題一-圓儀閃光系統\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\USER\Desktop\工科程式設計\89年\試題一-圓儀閃光系統\試題一-圓儀閃光系統\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\USER\Desktop\工科程式設計\89年\試題一-圓儀閃光系統\試題一-圓儀閃光系統\obj\x86\Debug\試題一-圓儀閃光系統.vbproj.GenerateResource.Cache
+C:\Users\USER\Desktop\工科程式設計\89年\試題一-圓儀閃光系統\試題一-圓儀閃光系統\obj\x86\Debug\試題一-圓儀閃光系統.exe
+C:\Users\USER\Desktop\工科程式設計\89年\試題一-圓儀閃光系統\試題一-圓儀閃光系統\obj\x86\Debug\試題一-圓儀閃光系統.xml
+C:\Users\USER\Desktop\工科程式設計\89年\試題一-圓儀閃光系統\試題一-圓儀閃光系統\obj\x86\Debug\試題一-圓儀閃光系統.pdb

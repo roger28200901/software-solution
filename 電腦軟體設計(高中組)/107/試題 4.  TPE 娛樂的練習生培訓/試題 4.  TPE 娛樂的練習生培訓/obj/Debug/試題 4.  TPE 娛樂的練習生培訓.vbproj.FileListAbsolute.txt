@@ -1,0 +1,9 @@
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高中組)\試題 4.  TPE 娛樂的練習生培訓\試題 4.  TPE 娛樂的練習生培訓\bin\Debug\試題 4.  TPE 娛樂的練習生培訓.exe.config
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高中組)\試題 4.  TPE 娛樂的練習生培訓\試題 4.  TPE 娛樂的練習生培訓\bin\Debug\試題 4.  TPE 娛樂的練習生培訓.exe
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高中組)\試題 4.  TPE 娛樂的練習生培訓\試題 4.  TPE 娛樂的練習生培訓\bin\Debug\試題 4.  TPE 娛樂的練習生培訓.pdb
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高中組)\試題 4.  TPE 娛樂的練習生培訓\試題 4.  TPE 娛樂的練習生培訓\bin\Debug\試題 4.  TPE 娛樂的練習生培訓.xml
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高中組)\試題 4.  TPE 娛樂的練習生培訓\試題 4.  TPE 娛樂的練習生培訓\obj\Debug\ConsoleApplication1.Resources.resources
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高中組)\試題 4.  TPE 娛樂的練習生培訓\試題 4.  TPE 娛樂的練習生培訓\obj\Debug\試題 4.  TPE 娛樂的練習生培訓.vbproj.GenerateResource.Cache
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高中組)\試題 4.  TPE 娛樂的練習生培訓\試題 4.  TPE 娛樂的練習生培訓\obj\Debug\試題 4.  TPE 娛樂的練習生培訓.exe
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高中組)\試題 4.  TPE 娛樂的練習生培訓\試題 4.  TPE 娛樂的練習生培訓\obj\Debug\試題 4.  TPE 娛樂的練習生培訓.xml
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高中組)\試題 4.  TPE 娛樂的練習生培訓\試題 4.  TPE 娛樂的練習生培訓\obj\Debug\試題 4.  TPE 娛樂的練習生培訓.pdb

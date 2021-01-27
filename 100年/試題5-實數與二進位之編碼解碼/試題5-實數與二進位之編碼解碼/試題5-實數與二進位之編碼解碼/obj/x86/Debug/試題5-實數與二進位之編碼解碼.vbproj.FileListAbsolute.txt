@@ -1,0 +1,9 @@
+C:\Users\USER\Desktop\工科程式設計\100年\試題5-實數與二進位之編碼解碼\試題5-實數與二進位之編碼解碼\試題5-實數與二進位之編碼解碼\bin\Debug\試題5-實數與二進位之編碼解碼.exe
+C:\Users\USER\Desktop\工科程式設計\100年\試題5-實數與二進位之編碼解碼\試題5-實數與二進位之編碼解碼\試題5-實數與二進位之編碼解碼\bin\Debug\試題5-實數與二進位之編碼解碼.pdb
+C:\Users\USER\Desktop\工科程式設計\100年\試題5-實數與二進位之編碼解碼\試題5-實數與二進位之編碼解碼\試題5-實數與二進位之編碼解碼\bin\Debug\試題5-實數與二進位之編碼解碼.xml
+C:\Users\USER\Desktop\工科程式設計\100年\試題5-實數與二進位之編碼解碼\試題5-實數與二進位之編碼解碼\試題5-實數與二進位之編碼解碼\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\USER\Desktop\工科程式設計\100年\試題5-實數與二進位之編碼解碼\試題5-實數與二進位之編碼解碼\試題5-實數與二進位之編碼解碼\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\USER\Desktop\工科程式設計\100年\試題5-實數與二進位之編碼解碼\試題5-實數與二進位之編碼解碼\試題5-實數與二進位之編碼解碼\obj\x86\Debug\試題5-實數與二進位之編碼解碼.vbproj.GenerateResource.Cache
+C:\Users\USER\Desktop\工科程式設計\100年\試題5-實數與二進位之編碼解碼\試題5-實數與二進位之編碼解碼\試題5-實數與二進位之編碼解碼\obj\x86\Debug\試題5-實數與二進位之編碼解碼.exe
+C:\Users\USER\Desktop\工科程式設計\100年\試題5-實數與二進位之編碼解碼\試題5-實數與二進位之編碼解碼\試題5-實數與二進位之編碼解碼\obj\x86\Debug\試題5-實數與二進位之編碼解碼.xml
+C:\Users\USER\Desktop\工科程式設計\100年\試題5-實數與二進位之編碼解碼\試題5-實數與二進位之編碼解碼\試題5-實數與二進位之編碼解碼\obj\x86\Debug\試題5-實數與二進位之編碼解碼.pdb

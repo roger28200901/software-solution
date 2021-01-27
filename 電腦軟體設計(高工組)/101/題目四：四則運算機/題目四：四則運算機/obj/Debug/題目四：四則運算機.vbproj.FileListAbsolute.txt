@@ -1,0 +1,10 @@
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\101\題目四：四則運算機\題目四：四則運算機\bin\Debug\題目四：四則運算機.exe.config
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\101\題目四：四則運算機\題目四：四則運算機\bin\Debug\題目四：四則運算機.exe
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\101\題目四：四則運算機\題目四：四則運算機\bin\Debug\題目四：四則運算機.pdb
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\101\題目四：四則運算機\題目四：四則運算機\bin\Debug\題目四：四則運算機.xml
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\101\題目四：四則運算機\題目四：四則運算機\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\101\題目四：四則運算機\題目四：四則運算機\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\101\題目四：四則運算機\題目四：四則運算機\obj\Debug\題目四：四則運算機.vbproj.GenerateResource.Cache
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\101\題目四：四則運算機\題目四：四則運算機\obj\Debug\題目四：四則運算機.exe
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\101\題目四：四則運算機\題目四：四則運算機\obj\Debug\題目四：四則運算機.xml
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\101\題目四：四則運算機\題目四：四則運算機\obj\Debug\題目四：四則運算機.pdb

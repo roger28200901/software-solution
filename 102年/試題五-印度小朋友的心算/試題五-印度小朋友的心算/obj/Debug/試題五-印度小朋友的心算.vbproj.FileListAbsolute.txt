@@ -1,0 +1,11 @@
+C:\Users\YunHong\Desktop\工科程式設計\102年\試題五-印度小朋友的心算\試題五-印度小朋友的心算\bin\Debug\試題五-印度小朋友的心算.exe.config
+C:\Users\YunHong\Desktop\工科程式設計\102年\試題五-印度小朋友的心算\試題五-印度小朋友的心算\bin\Debug\試題五-印度小朋友的心算.exe
+C:\Users\YunHong\Desktop\工科程式設計\102年\試題五-印度小朋友的心算\試題五-印度小朋友的心算\bin\Debug\試題五-印度小朋友的心算.pdb
+C:\Users\YunHong\Desktop\工科程式設計\102年\試題五-印度小朋友的心算\試題五-印度小朋友的心算\bin\Debug\試題五-印度小朋友的心算.xml
+C:\Users\YunHong\Desktop\工科程式設計\102年\試題五-印度小朋友的心算\試題五-印度小朋友的心算\obj\Debug\試題五-印度小朋友的心算.vbprojResolveAssemblyReference.cache
+C:\Users\YunHong\Desktop\工科程式設計\102年\試題五-印度小朋友的心算\試題五-印度小朋友的心算\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\YunHong\Desktop\工科程式設計\102年\試題五-印度小朋友的心算\試題五-印度小朋友的心算\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\YunHong\Desktop\工科程式設計\102年\試題五-印度小朋友的心算\試題五-印度小朋友的心算\obj\Debug\試題五-印度小朋友的心算.vbproj.GenerateResource.Cache
+C:\Users\YunHong\Desktop\工科程式設計\102年\試題五-印度小朋友的心算\試題五-印度小朋友的心算\obj\Debug\試題五-印度小朋友的心算.exe
+C:\Users\YunHong\Desktop\工科程式設計\102年\試題五-印度小朋友的心算\試題五-印度小朋友的心算\obj\Debug\試題五-印度小朋友的心算.xml
+C:\Users\YunHong\Desktop\工科程式設計\102年\試題五-印度小朋友的心算\試題五-印度小朋友的心算\obj\Debug\試題五-印度小朋友的心算.pdb

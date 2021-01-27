@@ -1,0 +1,10 @@
+C:\Users\YunHong\Desktop\工科程式設計\93年\試題三：給定線段AB 與 線段CD，四個坐落第一象限的點座標請判斷是否相交\試題三：給定線段AB 與 線段CD，四個坐落第一象限的點座標請判斷是否相交\bin\Debug\試題三：給定線段AB 與 線段CD，四個坐落第一象限的點座標請判斷是否相交.exe.config
+C:\Users\YunHong\Desktop\工科程式設計\93年\試題三：給定線段AB 與 線段CD，四個坐落第一象限的點座標請判斷是否相交\試題三：給定線段AB 與 線段CD，四個坐落第一象限的點座標請判斷是否相交\bin\Debug\試題三：給定線段AB 與 線段CD，四個坐落第一象限的點座標請判斷是否相交.exe
+C:\Users\YunHong\Desktop\工科程式設計\93年\試題三：給定線段AB 與 線段CD，四個坐落第一象限的點座標請判斷是否相交\試題三：給定線段AB 與 線段CD，四個坐落第一象限的點座標請判斷是否相交\bin\Debug\試題三：給定線段AB 與 線段CD，四個坐落第一象限的點座標請判斷是否相交.pdb
+C:\Users\YunHong\Desktop\工科程式設計\93年\試題三：給定線段AB 與 線段CD，四個坐落第一象限的點座標請判斷是否相交\試題三：給定線段AB 與 線段CD，四個坐落第一象限的點座標請判斷是否相交\bin\Debug\試題三：給定線段AB 與 線段CD，四個坐落第一象限的點座標請判斷是否相交.xml
+C:\Users\YunHong\Desktop\工科程式設計\93年\試題三：給定線段AB 與 線段CD，四個坐落第一象限的點座標請判斷是否相交\試題三：給定線段AB 與 線段CD，四個坐落第一象限的點座標請判斷是否相交\obj\Debug\試題三：給定線段AB 與 線段CD，四個坐落第一象限的點座標請判斷是否相交.vbprojResolveAssemblyReference.cache
+C:\Users\YunHong\Desktop\工科程式設計\93年\試題三：給定線段AB 與 線段CD，四個坐落第一象限的點座標請判斷是否相交\試題三：給定線段AB 與 線段CD，四個坐落第一象限的點座標請判斷是否相交\obj\Debug\ConsoleApplication1.Resources.resources
+C:\Users\YunHong\Desktop\工科程式設計\93年\試題三：給定線段AB 與 線段CD，四個坐落第一象限的點座標請判斷是否相交\試題三：給定線段AB 與 線段CD，四個坐落第一象限的點座標請判斷是否相交\obj\Debug\試題三：給定線段AB 與 線段CD，四個坐落第一象限的點座標請判斷是否相交.vbproj.GenerateResource.Cache
+C:\Users\YunHong\Desktop\工科程式設計\93年\試題三：給定線段AB 與 線段CD，四個坐落第一象限的點座標請判斷是否相交\試題三：給定線段AB 與 線段CD，四個坐落第一象限的點座標請判斷是否相交\obj\Debug\試題三：給定線段AB 與 線段CD，四個坐落第一象限的點座標請判斷是否相交.exe
+C:\Users\YunHong\Desktop\工科程式設計\93年\試題三：給定線段AB 與 線段CD，四個坐落第一象限的點座標請判斷是否相交\試題三：給定線段AB 與 線段CD，四個坐落第一象限的點座標請判斷是否相交\obj\Debug\試題三：給定線段AB 與 線段CD，四個坐落第一象限的點座標請判斷是否相交.xml
+C:\Users\YunHong\Desktop\工科程式設計\93年\試題三：給定線段AB 與 線段CD，四個坐落第一象限的點座標請判斷是否相交\試題三：給定線段AB 與 線段CD，四個坐落第一象限的點座標請判斷是否相交\obj\Debug\試題三：給定線段AB 與 線段CD，四個坐落第一象限的點座標請判斷是否相交.pdb

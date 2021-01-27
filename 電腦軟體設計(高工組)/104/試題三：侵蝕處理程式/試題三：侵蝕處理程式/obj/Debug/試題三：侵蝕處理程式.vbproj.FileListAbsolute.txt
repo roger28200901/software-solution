@@ -1,0 +1,10 @@
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\104\試題三：侵蝕處理程式\試題三：侵蝕處理程式\bin\Debug\試題三：侵蝕處理程式.exe.config
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\104\試題三：侵蝕處理程式\試題三：侵蝕處理程式\bin\Debug\試題三：侵蝕處理程式.exe
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\104\試題三：侵蝕處理程式\試題三：侵蝕處理程式\bin\Debug\試題三：侵蝕處理程式.pdb
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\104\試題三：侵蝕處理程式\試題三：侵蝕處理程式\bin\Debug\試題三：侵蝕處理程式.xml
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\104\試題三：侵蝕處理程式\試題三：侵蝕處理程式\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\104\試題三：侵蝕處理程式\試題三：侵蝕處理程式\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\104\試題三：侵蝕處理程式\試題三：侵蝕處理程式\obj\Debug\試題三：侵蝕處理程式.vbproj.GenerateResource.Cache
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\104\試題三：侵蝕處理程式\試題三：侵蝕處理程式\obj\Debug\試題三：侵蝕處理程式.exe
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\104\試題三：侵蝕處理程式\試題三：侵蝕處理程式\obj\Debug\試題三：侵蝕處理程式.xml
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\104\試題三：侵蝕處理程式\試題三：侵蝕處理程式\obj\Debug\試題三：侵蝕處理程式.pdb

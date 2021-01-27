@@ -1,0 +1,16 @@
+C:\Users\STDA\Desktop\107-4\2_Q1\bin\Debug\2_Q1.exe
+C:\Users\STDA\Desktop\107-4\2_Q1\bin\Debug\2_Q1.pdb
+C:\Users\STDA\Desktop\107-4\2_Q1\obj\x86\Debug\_2_Q1.Form1.resources
+C:\Users\STDA\Desktop\107-4\2_Q1\obj\x86\Debug\_2_Q1.Properties.Resources.resources
+C:\Users\STDA\Desktop\107-4\2_Q1\obj\x86\Debug\2_Q1.csproj.GenerateResource.Cache
+C:\Users\STDA\Desktop\107-4\2_Q1\obj\x86\Debug\2_Q1.exe
+C:\Users\STDA\Desktop\107-4\2_Q1\obj\x86\Debug\2_Q1.pdb
+C:\Users\STDA\Desktop\107-4\2_Q1\obj\x86\Debug\2_Q1.csprojResolveAssemblyReference.cache
+C:\Users\YunHong\Desktop\工科程式設計\107模擬賽-4\107 新北高工 第四次模擬賽\2_Q1\obj\x86\Debug\2_Q1.exe
+C:\Users\YunHong\Desktop\工科程式設計\107模擬賽-4\107 新北高工 第四次模擬賽\2_Q1\obj\x86\Debug\2_Q1.pdb
+C:\Users\YunHong\Desktop\工科程式設計\107模擬賽-4\107 新北高工 第四次模擬賽\2_Q1\bin\Debug\2_Q1.exe
+C:\Users\YunHong\Desktop\工科程式設計\107模擬賽-4\107 新北高工 第四次模擬賽\2_Q1\bin\Debug\2_Q1.pdb
+C:\Users\YunHong\Desktop\工科程式設計\107模擬賽-4\107 新北高工 第四次模擬賽\2_Q1\obj\x86\Debug\2_Q1.csprojResolveAssemblyReference.cache
+C:\Users\YunHong\Desktop\工科程式設計\107模擬賽-4\107 新北高工 第四次模擬賽\2_Q1\obj\x86\Debug\_2_Q1.Form1.resources
+C:\Users\YunHong\Desktop\工科程式設計\107模擬賽-4\107 新北高工 第四次模擬賽\2_Q1\obj\x86\Debug\_2_Q1.Properties.Resources.resources
+C:\Users\YunHong\Desktop\工科程式設計\107模擬賽-4\107 新北高工 第四次模擬賽\2_Q1\obj\x86\Debug\2_Q1.csproj.GenerateResource.Cache

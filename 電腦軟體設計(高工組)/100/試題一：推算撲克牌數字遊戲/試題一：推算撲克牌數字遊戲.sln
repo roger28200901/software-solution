@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "試題一：推算撲克牌數字遊戲", "試題一：推算撲克牌數字遊戲\試題一：推算撲克牌數字遊戲.vbproj", "{7C75D2D0-34C1-4F62-9AA2-903D6E14DE0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C75D2D0-34C1-4F62-9AA2-903D6E14DE0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C75D2D0-34C1-4F62-9AA2-903D6E14DE0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C75D2D0-34C1-4F62-9AA2-903D6E14DE0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C75D2D0-34C1-4F62-9AA2-903D6E14DE0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

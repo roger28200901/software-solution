@@ -1,0 +1,9 @@
+C:\Users\STDA\documents\visual studio 2010\Projects\06_Q5\06_Q5\bin\Debug\06_Q5.exe
+C:\Users\STDA\documents\visual studio 2010\Projects\06_Q5\06_Q5\bin\Debug\06_Q5.pdb
+C:\Users\STDA\documents\visual studio 2010\Projects\06_Q5\06_Q5\bin\Debug\06_Q5.xml
+C:\Users\STDA\documents\visual studio 2010\Projects\06_Q5\06_Q5\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\STDA\documents\visual studio 2010\Projects\06_Q5\06_Q5\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\STDA\documents\visual studio 2010\Projects\06_Q5\06_Q5\obj\x86\Debug\06_Q5.vbproj.GenerateResource.Cache
+C:\Users\STDA\documents\visual studio 2010\Projects\06_Q5\06_Q5\obj\x86\Debug\06_Q5.exe
+C:\Users\STDA\documents\visual studio 2010\Projects\06_Q5\06_Q5\obj\x86\Debug\06_Q5.xml
+C:\Users\STDA\documents\visual studio 2010\Projects\06_Q5\06_Q5\obj\x86\Debug\06_Q5.pdb

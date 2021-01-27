@@ -1,0 +1,11 @@
+C:\Users\YunHong\Desktop\工科程式設計\107模擬賽-1\_Q3網路解\_Q3網路解\bin\Debug\_Q3網路解.exe.config
+C:\Users\YunHong\Desktop\工科程式設計\107模擬賽-1\_Q3網路解\_Q3網路解\bin\Debug\_Q3網路解.exe
+C:\Users\YunHong\Desktop\工科程式設計\107模擬賽-1\_Q3網路解\_Q3網路解\bin\Debug\_Q3網路解.pdb
+C:\Users\YunHong\Desktop\工科程式設計\107模擬賽-1\_Q3網路解\_Q3網路解\bin\Debug\_Q3網路解.xml
+C:\Users\YunHong\Desktop\工科程式設計\107模擬賽-1\_Q3網路解\_Q3網路解\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\YunHong\Desktop\工科程式設計\107模擬賽-1\_Q3網路解\_Q3網路解\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\YunHong\Desktop\工科程式設計\107模擬賽-1\_Q3網路解\_Q3網路解\obj\Debug\_Q3網路解.vbproj.GenerateResource.Cache
+C:\Users\YunHong\Desktop\工科程式設計\107模擬賽-1\_Q3網路解\_Q3網路解\obj\Debug\_Q3網路解.exe
+C:\Users\YunHong\Desktop\工科程式設計\107模擬賽-1\_Q3網路解\_Q3網路解\obj\Debug\_Q3網路解.xml
+C:\Users\YunHong\Desktop\工科程式設計\107模擬賽-1\_Q3網路解\_Q3網路解\obj\Debug\_Q3網路解.pdb
+C:\Users\YunHong\Desktop\工科程式設計\107模擬賽-1\_Q3網路解\_Q3網路解\obj\Debug\_Q3網路解.vbprojResolveAssemblyReference.cache

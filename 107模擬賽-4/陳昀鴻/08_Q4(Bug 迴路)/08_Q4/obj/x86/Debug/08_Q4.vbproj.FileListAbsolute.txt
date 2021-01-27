@@ -1,0 +1,10 @@
+C:\Users\YunHong\Desktop\工科程式設計\107模擬賽-4\陳昀鴻\08_Q4\08_Q4\bin\Debug\08_Q4.exe
+C:\Users\YunHong\Desktop\工科程式設計\107模擬賽-4\陳昀鴻\08_Q4\08_Q4\bin\Debug\08_Q4.pdb
+C:\Users\YunHong\Desktop\工科程式設計\107模擬賽-4\陳昀鴻\08_Q4\08_Q4\bin\Debug\08_Q4.xml
+C:\Users\YunHong\Desktop\工科程式設計\107模擬賽-4\陳昀鴻\08_Q4\08_Q4\obj\x86\Debug\08_Q4.vbprojResolveAssemblyReference.cache
+C:\Users\YunHong\Desktop\工科程式設計\107模擬賽-4\陳昀鴻\08_Q4\08_Q4\obj\x86\Debug\WindowsApplication2.Form1.resources
+C:\Users\YunHong\Desktop\工科程式設計\107模擬賽-4\陳昀鴻\08_Q4\08_Q4\obj\x86\Debug\WindowsApplication2.Resources.resources
+C:\Users\YunHong\Desktop\工科程式設計\107模擬賽-4\陳昀鴻\08_Q4\08_Q4\obj\x86\Debug\08_Q4.vbproj.GenerateResource.Cache
+C:\Users\YunHong\Desktop\工科程式設計\107模擬賽-4\陳昀鴻\08_Q4\08_Q4\obj\x86\Debug\08_Q4.exe
+C:\Users\YunHong\Desktop\工科程式設計\107模擬賽-4\陳昀鴻\08_Q4\08_Q4\obj\x86\Debug\08_Q4.xml
+C:\Users\YunHong\Desktop\工科程式設計\107模擬賽-4\陳昀鴻\08_Q4\08_Q4\obj\x86\Debug\08_Q4.pdb

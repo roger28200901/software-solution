@@ -1,0 +1,11 @@
+C:\Users\YunHong\Desktop\工科程式設計\104年\試題六：搜尋字串並標示黃色背景顏色\試題六：搜尋字串並標示黃色背景顏色\bin\Debug\試題六：搜尋字串並標示黃色背景顏色.exe.config
+C:\Users\YunHong\Desktop\工科程式設計\104年\試題六：搜尋字串並標示黃色背景顏色\試題六：搜尋字串並標示黃色背景顏色\bin\Debug\試題六：搜尋字串並標示黃色背景顏色.exe
+C:\Users\YunHong\Desktop\工科程式設計\104年\試題六：搜尋字串並標示黃色背景顏色\試題六：搜尋字串並標示黃色背景顏色\bin\Debug\試題六：搜尋字串並標示黃色背景顏色.pdb
+C:\Users\YunHong\Desktop\工科程式設計\104年\試題六：搜尋字串並標示黃色背景顏色\試題六：搜尋字串並標示黃色背景顏色\bin\Debug\試題六：搜尋字串並標示黃色背景顏色.xml
+C:\Users\YunHong\Desktop\工科程式設計\104年\試題六：搜尋字串並標示黃色背景顏色\試題六：搜尋字串並標示黃色背景顏色\obj\Debug\試題六：搜尋字串並標示黃色背景顏色.vbprojResolveAssemblyReference.cache
+C:\Users\YunHong\Desktop\工科程式設計\104年\試題六：搜尋字串並標示黃色背景顏色\試題六：搜尋字串並標示黃色背景顏色\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\YunHong\Desktop\工科程式設計\104年\試題六：搜尋字串並標示黃色背景顏色\試題六：搜尋字串並標示黃色背景顏色\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\YunHong\Desktop\工科程式設計\104年\試題六：搜尋字串並標示黃色背景顏色\試題六：搜尋字串並標示黃色背景顏色\obj\Debug\試題六：搜尋字串並標示黃色背景顏色.vbproj.GenerateResource.Cache
+C:\Users\YunHong\Desktop\工科程式設計\104年\試題六：搜尋字串並標示黃色背景顏色\試題六：搜尋字串並標示黃色背景顏色\obj\Debug\試題六：搜尋字串並標示黃色背景顏色.exe
+C:\Users\YunHong\Desktop\工科程式設計\104年\試題六：搜尋字串並標示黃色背景顏色\試題六：搜尋字串並標示黃色背景顏色\obj\Debug\試題六：搜尋字串並標示黃色背景顏色.xml
+C:\Users\YunHong\Desktop\工科程式設計\104年\試題六：搜尋字串並標示黃色背景顏色\試題六：搜尋字串並標示黃色背景顏色\obj\Debug\試題六：搜尋字串並標示黃色背景顏色.pdb

@@ -1,0 +1,10 @@
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\97\試題4：思科Type7密碼加解密程式之設計\試題4：思科Type7密碼加解密程式之設計\bin\Debug\試題4：思科Type7密碼加解密程式之設計.exe.config
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\97\試題4：思科Type7密碼加解密程式之設計\試題4：思科Type7密碼加解密程式之設計\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\97\試題4：思科Type7密碼加解密程式之設計\試題4：思科Type7密碼加解密程式之設計\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\97\試題4：思科Type7密碼加解密程式之設計\試題4：思科Type7密碼加解密程式之設計\obj\Debug\試題4：思科Type7密碼加解密程式之設計.vbproj.GenerateResource.Cache
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\97\試題4：思科Type7密碼加解密程式之設計\試題4：思科Type7密碼加解密程式之設計\obj\Debug\試題4：思科Type7密碼加解密程式之設計.xml
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\97\試題4：思科Type7密碼加解密程式之設計\試題4：思科Type7密碼加解密程式之設計\bin\Debug\試題4：思科Type7密碼加解密程式之設計.exe
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\97\試題4：思科Type7密碼加解密程式之設計\試題4：思科Type7密碼加解密程式之設計\bin\Debug\試題4：思科Type7密碼加解密程式之設計.pdb
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\97\試題4：思科Type7密碼加解密程式之設計\試題4：思科Type7密碼加解密程式之設計\bin\Debug\試題4：思科Type7密碼加解密程式之設計.xml
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\97\試題4：思科Type7密碼加解密程式之設計\試題4：思科Type7密碼加解密程式之設計\obj\Debug\試題4：思科Type7密碼加解密程式之設計.exe
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\97\試題4：思科Type7密碼加解密程式之設計\試題4：思科Type7密碼加解密程式之設計\obj\Debug\試題4：思科Type7密碼加解密程式之設計.pdb

@@ -1,0 +1,8 @@
+C:\Users\STDA\AppData\Local\Temporary Projects\2_Q6\bin\Debug\2_Q6.exe
+C:\Users\STDA\AppData\Local\Temporary Projects\2_Q6\bin\Debug\2_Q6.pdb
+C:\Users\STDA\AppData\Local\Temporary Projects\2_Q6\obj\x86\Debug\2_Q6.exe
+C:\Users\STDA\AppData\Local\Temporary Projects\2_Q6\obj\x86\Debug\2_Q6.pdb
+C:\Users\STDA\Desktop\107-4\2_Q6\obj\x86\Debug\2_Q6.exe
+C:\Users\STDA\Desktop\107-4\2_Q6\obj\x86\Debug\2_Q6.pdb
+C:\Users\STDA\Desktop\107-4\2_Q6\bin\Debug\2_Q6.exe
+C:\Users\STDA\Desktop\107-4\2_Q6\bin\Debug\2_Q6.pdb

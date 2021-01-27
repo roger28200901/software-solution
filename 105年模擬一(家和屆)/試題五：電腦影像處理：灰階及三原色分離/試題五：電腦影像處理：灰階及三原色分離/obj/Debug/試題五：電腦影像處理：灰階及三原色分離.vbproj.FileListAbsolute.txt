@@ -1,0 +1,10 @@
+C:\Users\YunHong\Desktop\工科程式設計\105年模擬一(家和屆)\試題五：電腦影像處理：灰階及三原色分離\試題五：電腦影像處理：灰階及三原色分離\bin\Debug\試題五：電腦影像處理：灰階及三原色分離.exe.config
+C:\Users\YunHong\Desktop\工科程式設計\105年模擬一(家和屆)\試題五：電腦影像處理：灰階及三原色分離\試題五：電腦影像處理：灰階及三原色分離\bin\Debug\試題五：電腦影像處理：灰階及三原色分離.exe
+C:\Users\YunHong\Desktop\工科程式設計\105年模擬一(家和屆)\試題五：電腦影像處理：灰階及三原色分離\試題五：電腦影像處理：灰階及三原色分離\bin\Debug\試題五：電腦影像處理：灰階及三原色分離.pdb
+C:\Users\YunHong\Desktop\工科程式設計\105年模擬一(家和屆)\試題五：電腦影像處理：灰階及三原色分離\試題五：電腦影像處理：灰階及三原色分離\bin\Debug\試題五：電腦影像處理：灰階及三原色分離.xml
+C:\Users\YunHong\Desktop\工科程式設計\105年模擬一(家和屆)\試題五：電腦影像處理：灰階及三原色分離\試題五：電腦影像處理：灰階及三原色分離\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\YunHong\Desktop\工科程式設計\105年模擬一(家和屆)\試題五：電腦影像處理：灰階及三原色分離\試題五：電腦影像處理：灰階及三原色分離\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\YunHong\Desktop\工科程式設計\105年模擬一(家和屆)\試題五：電腦影像處理：灰階及三原色分離\試題五：電腦影像處理：灰階及三原色分離\obj\Debug\試題五：電腦影像處理：灰階及三原色分離.vbproj.GenerateResource.Cache
+C:\Users\YunHong\Desktop\工科程式設計\105年模擬一(家和屆)\試題五：電腦影像處理：灰階及三原色分離\試題五：電腦影像處理：灰階及三原色分離\obj\Debug\試題五：電腦影像處理：灰階及三原色分離.exe
+C:\Users\YunHong\Desktop\工科程式設計\105年模擬一(家和屆)\試題五：電腦影像處理：灰階及三原色分離\試題五：電腦影像處理：灰階及三原色分離\obj\Debug\試題五：電腦影像處理：灰階及三原色分離.xml
+C:\Users\YunHong\Desktop\工科程式設計\105年模擬一(家和屆)\試題五：電腦影像處理：灰階及三原色分離\試題五：電腦影像處理：灰階及三原色分離\obj\Debug\試題五：電腦影像處理：灰階及三原色分離.pdb

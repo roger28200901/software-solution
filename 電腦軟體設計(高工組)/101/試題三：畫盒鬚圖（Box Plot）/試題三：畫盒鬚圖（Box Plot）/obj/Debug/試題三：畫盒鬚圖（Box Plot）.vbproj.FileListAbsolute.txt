@@ -1,0 +1,11 @@
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\101\試題三：畫盒鬚圖（Box Plot）\試題三：畫盒鬚圖（Box Plot）\bin\Debug\試題三：畫盒鬚圖（Box Plot）.exe.config
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\101\試題三：畫盒鬚圖（Box Plot）\試題三：畫盒鬚圖（Box Plot）\bin\Debug\試題三：畫盒鬚圖（Box Plot）.exe
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\101\試題三：畫盒鬚圖（Box Plot）\試題三：畫盒鬚圖（Box Plot）\bin\Debug\試題三：畫盒鬚圖（Box Plot）.pdb
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\101\試題三：畫盒鬚圖（Box Plot）\試題三：畫盒鬚圖（Box Plot）\bin\Debug\試題三：畫盒鬚圖（Box Plot）.xml
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\101\試題三：畫盒鬚圖（Box Plot）\試題三：畫盒鬚圖（Box Plot）\obj\Debug\試題三：畫盒鬚圖（Box Plot）.vbprojResolveAssemblyReference.cache
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\101\試題三：畫盒鬚圖（Box Plot）\試題三：畫盒鬚圖（Box Plot）\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\101\試題三：畫盒鬚圖（Box Plot）\試題三：畫盒鬚圖（Box Plot）\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\101\試題三：畫盒鬚圖（Box Plot）\試題三：畫盒鬚圖（Box Plot）\obj\Debug\試題三：畫盒鬚圖（Box Plot）.vbproj.GenerateResource.Cache
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\101\試題三：畫盒鬚圖（Box Plot）\試題三：畫盒鬚圖（Box Plot）\obj\Debug\試題三：畫盒鬚圖（Box Plot）.exe
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\101\試題三：畫盒鬚圖（Box Plot）\試題三：畫盒鬚圖（Box Plot）\obj\Debug\試題三：畫盒鬚圖（Box Plot）.xml
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\101\試題三：畫盒鬚圖（Box Plot）\試題三：畫盒鬚圖（Box Plot）\obj\Debug\試題三：畫盒鬚圖（Box Plot）.pdb

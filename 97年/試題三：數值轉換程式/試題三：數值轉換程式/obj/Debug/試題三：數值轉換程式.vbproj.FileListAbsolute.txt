@@ -1,0 +1,10 @@
+C:\Users\YunHong\Desktop\工科程式設計\97年\試題三：數值轉換程式\試題三：數值轉換程式\bin\Debug\試題三：數值轉換程式.exe.config
+C:\Users\YunHong\Desktop\工科程式設計\97年\試題三：數值轉換程式\試題三：數值轉換程式\bin\Debug\試題三：數值轉換程式.exe
+C:\Users\YunHong\Desktop\工科程式設計\97年\試題三：數值轉換程式\試題三：數值轉換程式\bin\Debug\試題三：數值轉換程式.pdb
+C:\Users\YunHong\Desktop\工科程式設計\97年\試題三：數值轉換程式\試題三：數值轉換程式\bin\Debug\試題三：數值轉換程式.xml
+C:\Users\YunHong\Desktop\工科程式設計\97年\試題三：數值轉換程式\試題三：數值轉換程式\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\YunHong\Desktop\工科程式設計\97年\試題三：數值轉換程式\試題三：數值轉換程式\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\YunHong\Desktop\工科程式設計\97年\試題三：數值轉換程式\試題三：數值轉換程式\obj\Debug\試題三：數值轉換程式.vbproj.GenerateResource.Cache
+C:\Users\YunHong\Desktop\工科程式設計\97年\試題三：數值轉換程式\試題三：數值轉換程式\obj\Debug\試題三：數值轉換程式.exe
+C:\Users\YunHong\Desktop\工科程式設計\97年\試題三：數值轉換程式\試題三：數值轉換程式\obj\Debug\試題三：數值轉換程式.xml
+C:\Users\YunHong\Desktop\工科程式設計\97年\試題三：數值轉換程式\試題三：數值轉換程式\obj\Debug\試題三：數值轉換程式.pdb

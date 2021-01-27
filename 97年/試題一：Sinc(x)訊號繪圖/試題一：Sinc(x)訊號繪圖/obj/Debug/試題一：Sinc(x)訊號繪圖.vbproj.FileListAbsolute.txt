@@ -1,0 +1,11 @@
+C:\Users\YunHong\Desktop\工科程式設計\97年\試題一：Sinc(x)訊號繪圖\試題一：Sinc(x)訊號繪圖\bin\Debug\試題一：Sinc(x)訊號繪圖.exe.config
+C:\Users\YunHong\Desktop\工科程式設計\97年\試題一：Sinc(x)訊號繪圖\試題一：Sinc(x)訊號繪圖\bin\Debug\試題一：Sinc(x)訊號繪圖.exe
+C:\Users\YunHong\Desktop\工科程式設計\97年\試題一：Sinc(x)訊號繪圖\試題一：Sinc(x)訊號繪圖\bin\Debug\試題一：Sinc(x)訊號繪圖.pdb
+C:\Users\YunHong\Desktop\工科程式設計\97年\試題一：Sinc(x)訊號繪圖\試題一：Sinc(x)訊號繪圖\bin\Debug\試題一：Sinc(x)訊號繪圖.xml
+C:\Users\YunHong\Desktop\工科程式設計\97年\試題一：Sinc(x)訊號繪圖\試題一：Sinc(x)訊號繪圖\obj\Debug\試題一：Sinc(x)訊號繪圖.vbprojResolveAssemblyReference.cache
+C:\Users\YunHong\Desktop\工科程式設計\97年\試題一：Sinc(x)訊號繪圖\試題一：Sinc(x)訊號繪圖\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\YunHong\Desktop\工科程式設計\97年\試題一：Sinc(x)訊號繪圖\試題一：Sinc(x)訊號繪圖\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\YunHong\Desktop\工科程式設計\97年\試題一：Sinc(x)訊號繪圖\試題一：Sinc(x)訊號繪圖\obj\Debug\試題一：Sinc(x)訊號繪圖.vbproj.GenerateResource.Cache
+C:\Users\YunHong\Desktop\工科程式設計\97年\試題一：Sinc(x)訊號繪圖\試題一：Sinc(x)訊號繪圖\obj\Debug\試題一：Sinc(x)訊號繪圖.exe
+C:\Users\YunHong\Desktop\工科程式設計\97年\試題一：Sinc(x)訊號繪圖\試題一：Sinc(x)訊號繪圖\obj\Debug\試題一：Sinc(x)訊號繪圖.xml
+C:\Users\YunHong\Desktop\工科程式設計\97年\試題一：Sinc(x)訊號繪圖\試題一：Sinc(x)訊號繪圖\obj\Debug\試題一：Sinc(x)訊號繪圖.pdb

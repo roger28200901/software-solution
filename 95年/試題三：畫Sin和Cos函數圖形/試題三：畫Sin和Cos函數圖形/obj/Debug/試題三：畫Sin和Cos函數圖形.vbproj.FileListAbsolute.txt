@@ -1,0 +1,10 @@
+C:\Users\YunHong\Desktop\工科程式設計\95年\試題三：畫Sin和Cos函數圖形\試題三：畫Sin和Cos函數圖形\bin\Debug\試題三：畫Sin和Cos函數圖形.exe.config
+C:\Users\YunHong\Desktop\工科程式設計\95年\試題三：畫Sin和Cos函數圖形\試題三：畫Sin和Cos函數圖形\bin\Debug\試題三：畫Sin和Cos函數圖形.exe
+C:\Users\YunHong\Desktop\工科程式設計\95年\試題三：畫Sin和Cos函數圖形\試題三：畫Sin和Cos函數圖形\bin\Debug\試題三：畫Sin和Cos函數圖形.pdb
+C:\Users\YunHong\Desktop\工科程式設計\95年\試題三：畫Sin和Cos函數圖形\試題三：畫Sin和Cos函數圖形\bin\Debug\試題三：畫Sin和Cos函數圖形.xml
+C:\Users\YunHong\Desktop\工科程式設計\95年\試題三：畫Sin和Cos函數圖形\試題三：畫Sin和Cos函數圖形\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\YunHong\Desktop\工科程式設計\95年\試題三：畫Sin和Cos函數圖形\試題三：畫Sin和Cos函數圖形\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\YunHong\Desktop\工科程式設計\95年\試題三：畫Sin和Cos函數圖形\試題三：畫Sin和Cos函數圖形\obj\Debug\試題三：畫Sin和Cos函數圖形.vbproj.GenerateResource.Cache
+C:\Users\YunHong\Desktop\工科程式設計\95年\試題三：畫Sin和Cos函數圖形\試題三：畫Sin和Cos函數圖形\obj\Debug\試題三：畫Sin和Cos函數圖形.exe
+C:\Users\YunHong\Desktop\工科程式設計\95年\試題三：畫Sin和Cos函數圖形\試題三：畫Sin和Cos函數圖形\obj\Debug\試題三：畫Sin和Cos函數圖形.xml
+C:\Users\YunHong\Desktop\工科程式設計\95年\試題三：畫Sin和Cos函數圖形\試題三：畫Sin和Cos函數圖形\obj\Debug\試題三：畫Sin和Cos函數圖形.pdb

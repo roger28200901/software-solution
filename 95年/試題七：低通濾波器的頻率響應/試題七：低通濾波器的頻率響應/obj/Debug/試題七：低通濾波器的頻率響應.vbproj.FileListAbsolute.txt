@@ -1,0 +1,1 @@
+C:\Users\YunHong\Desktop\工科程式設計\95年\試題七：低通濾波器的頻率響應\試題七：低通濾波器的頻率響應\bin\Debug\試題七：低通濾波器的頻率響應.exe.config

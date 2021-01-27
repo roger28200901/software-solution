@@ -1,0 +1,11 @@
+C:\Users\YunHong\Desktop\工科程式設計\105年模擬二(家和屆)\試題二：訊號調變與解調變\試題二：訊號調變與解調變\bin\Debug\試題二：訊號調變與解調變.exe.config
+C:\Users\YunHong\Desktop\工科程式設計\105年模擬二(家和屆)\試題二：訊號調變與解調變\試題二：訊號調變與解調變\bin\Debug\試題二：訊號調變與解調變.exe
+C:\Users\YunHong\Desktop\工科程式設計\105年模擬二(家和屆)\試題二：訊號調變與解調變\試題二：訊號調變與解調變\bin\Debug\試題二：訊號調變與解調變.pdb
+C:\Users\YunHong\Desktop\工科程式設計\105年模擬二(家和屆)\試題二：訊號調變與解調變\試題二：訊號調變與解調變\bin\Debug\試題二：訊號調變與解調變.xml
+C:\Users\YunHong\Desktop\工科程式設計\105年模擬二(家和屆)\試題二：訊號調變與解調變\試題二：訊號調變與解調變\obj\Debug\試題二：訊號調變與解調變.vbprojResolveAssemblyReference.cache
+C:\Users\YunHong\Desktop\工科程式設計\105年模擬二(家和屆)\試題二：訊號調變與解調變\試題二：訊號調變與解調變\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\YunHong\Desktop\工科程式設計\105年模擬二(家和屆)\試題二：訊號調變與解調變\試題二：訊號調變與解調變\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\YunHong\Desktop\工科程式設計\105年模擬二(家和屆)\試題二：訊號調變與解調變\試題二：訊號調變與解調變\obj\Debug\試題二：訊號調變與解調變.vbproj.GenerateResource.Cache
+C:\Users\YunHong\Desktop\工科程式設計\105年模擬二(家和屆)\試題二：訊號調變與解調變\試題二：訊號調變與解調變\obj\Debug\試題二：訊號調變與解調變.exe
+C:\Users\YunHong\Desktop\工科程式設計\105年模擬二(家和屆)\試題二：訊號調變與解調變\試題二：訊號調變與解調變\obj\Debug\試題二：訊號調變與解調變.xml
+C:\Users\YunHong\Desktop\工科程式設計\105年模擬二(家和屆)\試題二：訊號調變與解調變\試題二：訊號調變與解調變\obj\Debug\試題二：訊號調變與解調變.pdb

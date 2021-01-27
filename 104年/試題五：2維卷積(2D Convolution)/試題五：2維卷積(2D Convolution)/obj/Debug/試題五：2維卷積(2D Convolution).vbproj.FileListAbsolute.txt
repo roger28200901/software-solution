@@ -1,0 +1,11 @@
+C:\Users\YunHong\Desktop\工科程式設計\104年\試題五：2維卷積(2D Convolution)\試題五：2維卷積(2D Convolution)\bin\Debug\試題五：2維卷積(2D Convolution).exe.config
+C:\Users\YunHong\Desktop\工科程式設計\104年\試題五：2維卷積(2D Convolution)\試題五：2維卷積(2D Convolution)\bin\Debug\試題五：2維卷積(2D Convolution).exe
+C:\Users\YunHong\Desktop\工科程式設計\104年\試題五：2維卷積(2D Convolution)\試題五：2維卷積(2D Convolution)\bin\Debug\試題五：2維卷積(2D Convolution).pdb
+C:\Users\YunHong\Desktop\工科程式設計\104年\試題五：2維卷積(2D Convolution)\試題五：2維卷積(2D Convolution)\bin\Debug\試題五：2維卷積(2D Convolution).xml
+C:\Users\YunHong\Desktop\工科程式設計\104年\試題五：2維卷積(2D Convolution)\試題五：2維卷積(2D Convolution)\obj\Debug\試題五：2維卷積(2D Convolution).vbprojResolveAssemblyReference.cache
+C:\Users\YunHong\Desktop\工科程式設計\104年\試題五：2維卷積(2D Convolution)\試題五：2維卷積(2D Convolution)\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\YunHong\Desktop\工科程式設計\104年\試題五：2維卷積(2D Convolution)\試題五：2維卷積(2D Convolution)\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\YunHong\Desktop\工科程式設計\104年\試題五：2維卷積(2D Convolution)\試題五：2維卷積(2D Convolution)\obj\Debug\試題五：2維卷積(2D Convolution).vbproj.GenerateResource.Cache
+C:\Users\YunHong\Desktop\工科程式設計\104年\試題五：2維卷積(2D Convolution)\試題五：2維卷積(2D Convolution)\obj\Debug\試題五：2維卷積(2D Convolution).exe
+C:\Users\YunHong\Desktop\工科程式設計\104年\試題五：2維卷積(2D Convolution)\試題五：2維卷積(2D Convolution)\obj\Debug\試題五：2維卷積(2D Convolution).xml
+C:\Users\YunHong\Desktop\工科程式設計\104年\試題五：2維卷積(2D Convolution)\試題五：2維卷積(2D Convolution)\obj\Debug\試題五：2維卷積(2D Convolution).pdb

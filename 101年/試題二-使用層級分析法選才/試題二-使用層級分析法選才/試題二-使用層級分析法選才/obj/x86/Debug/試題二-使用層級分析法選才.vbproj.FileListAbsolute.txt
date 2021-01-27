@@ -1,0 +1,8 @@
+C:\Users\USER\Desktop\工科程式設計\101年\試題二-使用層級分析法選才\試題二-使用層級分析法選才\試題二-使用層級分析法選才\bin\Debug\試題二-使用層級分析法選才.exe
+C:\Users\USER\Desktop\工科程式設計\101年\試題二-使用層級分析法選才\試題二-使用層級分析法選才\試題二-使用層級分析法選才\bin\Debug\試題二-使用層級分析法選才.pdb
+C:\Users\USER\Desktop\工科程式設計\101年\試題二-使用層級分析法選才\試題二-使用層級分析法選才\試題二-使用層級分析法選才\bin\Debug\試題二-使用層級分析法選才.xml
+C:\Users\USER\Desktop\工科程式設計\101年\試題二-使用層級分析法選才\試題二-使用層級分析法選才\試題二-使用層級分析法選才\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\USER\Desktop\工科程式設計\101年\試題二-使用層級分析法選才\試題二-使用層級分析法選才\試題二-使用層級分析法選才\obj\x86\Debug\試題二-使用層級分析法選才.vbproj.GenerateResource.Cache
+C:\Users\USER\Desktop\工科程式設計\101年\試題二-使用層級分析法選才\試題二-使用層級分析法選才\試題二-使用層級分析法選才\obj\x86\Debug\試題二-使用層級分析法選才.exe
+C:\Users\USER\Desktop\工科程式設計\101年\試題二-使用層級分析法選才\試題二-使用層級分析法選才\試題二-使用層級分析法選才\obj\x86\Debug\試題二-使用層級分析法選才.xml
+C:\Users\USER\Desktop\工科程式設計\101年\試題二-使用層級分析法選才\試題二-使用層級分析法選才\試題二-使用層級分析法選才\obj\x86\Debug\試題二-使用層級分析法選才.pdb

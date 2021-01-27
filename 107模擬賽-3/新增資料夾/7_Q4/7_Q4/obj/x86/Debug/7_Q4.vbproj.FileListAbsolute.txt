@@ -1,0 +1,18 @@
+C:\Users\STDA\AppData\Local\Temporary Projects\7_Q4\bin\Debug\7_Q4.exe
+C:\Users\STDA\AppData\Local\Temporary Projects\7_Q4\bin\Debug\7_Q4.pdb
+C:\Users\STDA\AppData\Local\Temporary Projects\7_Q4\bin\Debug\7_Q4.xml
+C:\Users\STDA\AppData\Local\Temporary Projects\7_Q4\obj\x86\Debug\_7_Q4.Form1.resources
+C:\Users\STDA\AppData\Local\Temporary Projects\7_Q4\obj\x86\Debug\_7_Q4.Resources.resources
+C:\Users\STDA\AppData\Local\Temporary Projects\7_Q4\obj\x86\Debug\7_Q4.vbproj.GenerateResource.Cache
+C:\Users\STDA\AppData\Local\Temporary Projects\7_Q4\obj\x86\Debug\7_Q4.exe
+C:\Users\STDA\AppData\Local\Temporary Projects\7_Q4\obj\x86\Debug\7_Q4.xml
+C:\Users\STDA\AppData\Local\Temporary Projects\7_Q4\obj\x86\Debug\7_Q4.pdb
+C:\Users\STDA\Desktop\新增資料夾\7_Q4\7_Q4\obj\x86\Debug\7_Q4.exe
+C:\Users\STDA\Desktop\新增資料夾\7_Q4\7_Q4\obj\x86\Debug\7_Q4.xml
+C:\Users\STDA\Desktop\新增資料夾\7_Q4\7_Q4\obj\x86\Debug\7_Q4.pdb
+C:\Users\STDA\Desktop\新增資料夾\7_Q4\7_Q4\bin\Debug\7_Q4.exe
+C:\Users\STDA\Desktop\新增資料夾\7_Q4\7_Q4\bin\Debug\7_Q4.pdb
+C:\Users\STDA\Desktop\新增資料夾\7_Q4\7_Q4\bin\Debug\7_Q4.xml
+C:\Users\STDA\Desktop\新增資料夾\7_Q4\7_Q4\obj\x86\Debug\_7_Q4.Form1.resources
+C:\Users\STDA\Desktop\新增資料夾\7_Q4\7_Q4\obj\x86\Debug\_7_Q4.Resources.resources
+C:\Users\STDA\Desktop\新增資料夾\7_Q4\7_Q4\obj\x86\Debug\7_Q4.vbproj.GenerateResource.Cache

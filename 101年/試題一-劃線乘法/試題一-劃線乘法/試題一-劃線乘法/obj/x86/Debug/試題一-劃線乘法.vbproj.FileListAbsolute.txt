@@ -1,0 +1,9 @@
+C:\Users\USER\Desktop\工科程式設計\101年\試題一-劃線乘法\試題一-劃線乘法\試題一-劃線乘法\bin\Debug\試題一-劃線乘法.exe
+C:\Users\USER\Desktop\工科程式設計\101年\試題一-劃線乘法\試題一-劃線乘法\試題一-劃線乘法\bin\Debug\試題一-劃線乘法.pdb
+C:\Users\USER\Desktop\工科程式設計\101年\試題一-劃線乘法\試題一-劃線乘法\試題一-劃線乘法\bin\Debug\試題一-劃線乘法.xml
+C:\Users\USER\Desktop\工科程式設計\101年\試題一-劃線乘法\試題一-劃線乘法\試題一-劃線乘法\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\USER\Desktop\工科程式設計\101年\試題一-劃線乘法\試題一-劃線乘法\試題一-劃線乘法\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\USER\Desktop\工科程式設計\101年\試題一-劃線乘法\試題一-劃線乘法\試題一-劃線乘法\obj\x86\Debug\試題一-劃線乘法.vbproj.GenerateResource.Cache
+C:\Users\USER\Desktop\工科程式設計\101年\試題一-劃線乘法\試題一-劃線乘法\試題一-劃線乘法\obj\x86\Debug\試題一-劃線乘法.exe
+C:\Users\USER\Desktop\工科程式設計\101年\試題一-劃線乘法\試題一-劃線乘法\試題一-劃線乘法\obj\x86\Debug\試題一-劃線乘法.xml
+C:\Users\USER\Desktop\工科程式設計\101年\試題一-劃線乘法\試題一-劃線乘法\試題一-劃線乘法\obj\x86\Debug\試題一-劃線乘法.pdb

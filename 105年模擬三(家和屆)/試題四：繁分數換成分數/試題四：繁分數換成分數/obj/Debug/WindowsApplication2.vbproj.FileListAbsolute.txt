@@ -1,0 +1,11 @@
+C:\Users\YunHong\AppData\Local\Temporary Projects\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+C:\Users\YunHong\AppData\Local\Temporary Projects\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\YunHong\AppData\Local\Temporary Projects\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\YunHong\AppData\Local\Temporary Projects\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\YunHong\AppData\Local\Temporary Projects\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+C:\Users\YunHong\AppData\Local\Temporary Projects\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+C:\Users\YunHong\AppData\Local\Temporary Projects\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\YunHong\AppData\Local\Temporary Projects\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\YunHong\AppData\Local\Temporary Projects\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+C:\Users\YunHong\AppData\Local\Temporary Projects\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+C:\Users\YunHong\AppData\Local\Temporary Projects\WindowsApplication2\obj\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache

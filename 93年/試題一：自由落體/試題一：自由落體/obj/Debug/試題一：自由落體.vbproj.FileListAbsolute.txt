@@ -1,0 +1,10 @@
+C:\Users\YunHong\Desktop\工科程式設計\93年\試題一：自由落體\試題一：自由落體\bin\Debug\試題一：自由落體.exe.config
+C:\Users\YunHong\Desktop\工科程式設計\93年\試題一：自由落體\試題一：自由落體\bin\Debug\試題一：自由落體.exe
+C:\Users\YunHong\Desktop\工科程式設計\93年\試題一：自由落體\試題一：自由落體\bin\Debug\試題一：自由落體.pdb
+C:\Users\YunHong\Desktop\工科程式設計\93年\試題一：自由落體\試題一：自由落體\bin\Debug\試題一：自由落體.xml
+C:\Users\YunHong\Desktop\工科程式設計\93年\試題一：自由落體\試題一：自由落體\obj\Debug\試題一：自由落體.vbprojResolveAssemblyReference.cache
+C:\Users\YunHong\Desktop\工科程式設計\93年\試題一：自由落體\試題一：自由落體\obj\Debug\ConsoleApplication1.Resources.resources
+C:\Users\YunHong\Desktop\工科程式設計\93年\試題一：自由落體\試題一：自由落體\obj\Debug\試題一：自由落體.vbproj.GenerateResource.Cache
+C:\Users\YunHong\Desktop\工科程式設計\93年\試題一：自由落體\試題一：自由落體\obj\Debug\試題一：自由落體.exe
+C:\Users\YunHong\Desktop\工科程式設計\93年\試題一：自由落體\試題一：自由落體\obj\Debug\試題一：自由落體.xml
+C:\Users\YunHong\Desktop\工科程式設計\93年\試題一：自由落體\試題一：自由落體\obj\Debug\試題一：自由落體.pdb

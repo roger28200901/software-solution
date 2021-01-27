@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "試題四：有趣點和線的檢測", "試題四：有趣點和線的檢測\試題四：有趣點和線的檢測.vbproj", "{80982317-85A7-48EA-B3E9-1C7A623E8100}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80982317-85A7-48EA-B3E9-1C7A623E8100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80982317-85A7-48EA-B3E9-1C7A623E8100}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80982317-85A7-48EA-B3E9-1C7A623E8100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80982317-85A7-48EA-B3E9-1C7A623E8100}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

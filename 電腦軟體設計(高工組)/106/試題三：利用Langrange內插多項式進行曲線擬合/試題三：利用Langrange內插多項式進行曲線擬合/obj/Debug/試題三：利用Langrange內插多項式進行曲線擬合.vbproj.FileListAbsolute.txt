@@ -1,0 +1,12 @@
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\105\試題三：利用Langrange內插多項式進行曲線擬合\試題三：利用Langrange內插多項式進行曲線擬合\bin\Debug\試題三：利用Langrange內插多項式進行曲線擬合.exe.config
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\106\試題三：利用Langrange內插多項式進行曲線擬合\試題三：利用Langrange內插多項式進行曲線擬合\bin\Debug\試題三：利用Langrange內插多項式進行曲線擬合.exe.config
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\106\試題三：利用Langrange內插多項式進行曲線擬合\試題三：利用Langrange內插多項式進行曲線擬合\bin\Debug\試題三：利用Langrange內插多項式進行曲線擬合.exe
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\106\試題三：利用Langrange內插多項式進行曲線擬合\試題三：利用Langrange內插多項式進行曲線擬合\bin\Debug\試題三：利用Langrange內插多項式進行曲線擬合.pdb
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\106\試題三：利用Langrange內插多項式進行曲線擬合\試題三：利用Langrange內插多項式進行曲線擬合\bin\Debug\試題三：利用Langrange內插多項式進行曲線擬合.xml
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\106\試題三：利用Langrange內插多項式進行曲線擬合\試題三：利用Langrange內插多項式進行曲線擬合\obj\Debug\試題三：利用Langrange內插多項式進行曲線擬合.vbprojResolveAssemblyReference.cache
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\106\試題三：利用Langrange內插多項式進行曲線擬合\試題三：利用Langrange內插多項式進行曲線擬合\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\106\試題三：利用Langrange內插多項式進行曲線擬合\試題三：利用Langrange內插多項式進行曲線擬合\obj\Debug\試題三：利用Langrange內插多項式進行曲線擬合.vbproj.GenerateResource.Cache
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\106\試題三：利用Langrange內插多項式進行曲線擬合\試題三：利用Langrange內插多項式進行曲線擬合\obj\Debug\試題三：利用Langrange內插多項式進行曲線擬合.exe
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\106\試題三：利用Langrange內插多項式進行曲線擬合\試題三：利用Langrange內插多項式進行曲線擬合\obj\Debug\試題三：利用Langrange內插多項式進行曲線擬合.xml
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\106\試題三：利用Langrange內插多項式進行曲線擬合\試題三：利用Langrange內插多項式進行曲線擬合\obj\Debug\試題三：利用Langrange內插多項式進行曲線擬合.pdb
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\106\試題三：利用Langrange內插多項式進行曲線擬合\試題三：利用Langrange內插多項式進行曲線擬合\obj\Debug\WindowsApplication1.Form1.resources

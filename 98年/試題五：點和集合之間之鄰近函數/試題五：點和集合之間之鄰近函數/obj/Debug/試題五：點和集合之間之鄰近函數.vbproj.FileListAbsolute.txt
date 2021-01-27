@@ -1,0 +1,11 @@
+C:\Users\YunHong\Desktop\工科程式設計\98年\試題五：點和集合之間之鄰近函數\試題五：點和集合之間之鄰近函數\bin\Debug\試題五：點和集合之間之鄰近函數.exe.config
+C:\Users\YunHong\Desktop\工科程式設計\98年\試題五：點和集合之間之鄰近函數\試題五：點和集合之間之鄰近函數\bin\Debug\試題五：點和集合之間之鄰近函數.exe
+C:\Users\YunHong\Desktop\工科程式設計\98年\試題五：點和集合之間之鄰近函數\試題五：點和集合之間之鄰近函數\bin\Debug\試題五：點和集合之間之鄰近函數.pdb
+C:\Users\YunHong\Desktop\工科程式設計\98年\試題五：點和集合之間之鄰近函數\試題五：點和集合之間之鄰近函數\bin\Debug\試題五：點和集合之間之鄰近函數.xml
+C:\Users\YunHong\Desktop\工科程式設計\98年\試題五：點和集合之間之鄰近函數\試題五：點和集合之間之鄰近函數\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\YunHong\Desktop\工科程式設計\98年\試題五：點和集合之間之鄰近函數\試題五：點和集合之間之鄰近函數\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\YunHong\Desktop\工科程式設計\98年\試題五：點和集合之間之鄰近函數\試題五：點和集合之間之鄰近函數\obj\Debug\試題五：點和集合之間之鄰近函數.vbproj.GenerateResource.Cache
+C:\Users\YunHong\Desktop\工科程式設計\98年\試題五：點和集合之間之鄰近函數\試題五：點和集合之間之鄰近函數\obj\Debug\試題五：點和集合之間之鄰近函數.exe
+C:\Users\YunHong\Desktop\工科程式設計\98年\試題五：點和集合之間之鄰近函數\試題五：點和集合之間之鄰近函數\obj\Debug\試題五：點和集合之間之鄰近函數.xml
+C:\Users\YunHong\Desktop\工科程式設計\98年\試題五：點和集合之間之鄰近函數\試題五：點和集合之間之鄰近函數\obj\Debug\試題五：點和集合之間之鄰近函數.pdb
+C:\Users\YunHong\Desktop\工科程式設計\98年\試題五：點和集合之間之鄰近函數\試題五：點和集合之間之鄰近函數\obj\Debug\試題五：點和集合之間之鄰近函數.vbprojResolveAssemblyReference.cache

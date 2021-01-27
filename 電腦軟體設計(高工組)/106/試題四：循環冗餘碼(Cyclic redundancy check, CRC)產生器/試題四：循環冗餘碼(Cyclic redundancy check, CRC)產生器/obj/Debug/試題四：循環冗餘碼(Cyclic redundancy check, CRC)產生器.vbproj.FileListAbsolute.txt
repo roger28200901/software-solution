@@ -1,0 +1,1 @@
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\105\試題四：循環冗餘碼(Cyclic redundancy check, CRC)產生器\試題四：循環冗餘碼(Cyclic redundancy check, CRC)產生器\bin\Debug\試題四：循環冗餘碼(Cyclic redundancy check, CRC)產生器.exe.config

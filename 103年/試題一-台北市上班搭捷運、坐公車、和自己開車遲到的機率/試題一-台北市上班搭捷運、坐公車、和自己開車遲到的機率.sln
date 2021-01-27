@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "試題一-台北市上班搭捷運、坐公車、和自己開車遲到的機率", "試題一-台北市上班搭捷運、坐公車、和自己開車遲到的機率\試題一-台北市上班搭捷運、坐公車、和自己開車遲到的機率.vbproj", "{FC0DFED6-898D-4EC7-B50F-37782621BD4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC0DFED6-898D-4EC7-B50F-37782621BD4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC0DFED6-898D-4EC7-B50F-37782621BD4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC0DFED6-898D-4EC7-B50F-37782621BD4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC0DFED6-898D-4EC7-B50F-37782621BD4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

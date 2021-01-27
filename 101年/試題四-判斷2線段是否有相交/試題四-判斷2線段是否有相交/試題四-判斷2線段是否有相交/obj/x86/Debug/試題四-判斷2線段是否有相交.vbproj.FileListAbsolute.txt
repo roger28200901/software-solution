@@ -1,0 +1,9 @@
+C:\Users\USER\Desktop\工科程式設計\101年\試題四-判斷2線段是否有相交\試題四-判斷2線段是否有相交\試題四-判斷2線段是否有相交\bin\Debug\試題四-判斷2線段是否有相交.exe
+C:\Users\USER\Desktop\工科程式設計\101年\試題四-判斷2線段是否有相交\試題四-判斷2線段是否有相交\試題四-判斷2線段是否有相交\bin\Debug\試題四-判斷2線段是否有相交.pdb
+C:\Users\USER\Desktop\工科程式設計\101年\試題四-判斷2線段是否有相交\試題四-判斷2線段是否有相交\試題四-判斷2線段是否有相交\bin\Debug\試題四-判斷2線段是否有相交.xml
+C:\Users\USER\Desktop\工科程式設計\101年\試題四-判斷2線段是否有相交\試題四-判斷2線段是否有相交\試題四-判斷2線段是否有相交\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\USER\Desktop\工科程式設計\101年\試題四-判斷2線段是否有相交\試題四-判斷2線段是否有相交\試題四-判斷2線段是否有相交\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\USER\Desktop\工科程式設計\101年\試題四-判斷2線段是否有相交\試題四-判斷2線段是否有相交\試題四-判斷2線段是否有相交\obj\x86\Debug\試題四-判斷2線段是否有相交.vbproj.GenerateResource.Cache
+C:\Users\USER\Desktop\工科程式設計\101年\試題四-判斷2線段是否有相交\試題四-判斷2線段是否有相交\試題四-判斷2線段是否有相交\obj\x86\Debug\試題四-判斷2線段是否有相交.exe
+C:\Users\USER\Desktop\工科程式設計\101年\試題四-判斷2線段是否有相交\試題四-判斷2線段是否有相交\試題四-判斷2線段是否有相交\obj\x86\Debug\試題四-判斷2線段是否有相交.xml
+C:\Users\USER\Desktop\工科程式設計\101年\試題四-判斷2線段是否有相交\試題四-判斷2線段是否有相交\試題四-判斷2線段是否有相交\obj\x86\Debug\試題四-判斷2線段是否有相交.pdb

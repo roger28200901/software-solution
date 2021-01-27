@@ -1,0 +1,11 @@
+C:\Users\YunHong\Desktop\工科程式設計\105年模擬二(家和屆)\試題四：我的小行事曆\試題四：我的小行事曆\bin\Debug\試題四：我的小行事曆.exe.config
+C:\Users\YunHong\Desktop\工科程式設計\105年模擬二(家和屆)\試題四：我的小行事曆\試題四：我的小行事曆\bin\Debug\試題四：我的小行事曆.exe
+C:\Users\YunHong\Desktop\工科程式設計\105年模擬二(家和屆)\試題四：我的小行事曆\試題四：我的小行事曆\bin\Debug\試題四：我的小行事曆.pdb
+C:\Users\YunHong\Desktop\工科程式設計\105年模擬二(家和屆)\試題四：我的小行事曆\試題四：我的小行事曆\bin\Debug\試題四：我的小行事曆.xml
+C:\Users\YunHong\Desktop\工科程式設計\105年模擬二(家和屆)\試題四：我的小行事曆\試題四：我的小行事曆\obj\Debug\試題四：我的小行事曆.vbprojResolveAssemblyReference.cache
+C:\Users\YunHong\Desktop\工科程式設計\105年模擬二(家和屆)\試題四：我的小行事曆\試題四：我的小行事曆\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\YunHong\Desktop\工科程式設計\105年模擬二(家和屆)\試題四：我的小行事曆\試題四：我的小行事曆\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\YunHong\Desktop\工科程式設計\105年模擬二(家和屆)\試題四：我的小行事曆\試題四：我的小行事曆\obj\Debug\試題四：我的小行事曆.vbproj.GenerateResource.Cache
+C:\Users\YunHong\Desktop\工科程式設計\105年模擬二(家和屆)\試題四：我的小行事曆\試題四：我的小行事曆\obj\Debug\試題四：我的小行事曆.exe
+C:\Users\YunHong\Desktop\工科程式設計\105年模擬二(家和屆)\試題四：我的小行事曆\試題四：我的小行事曆\obj\Debug\試題四：我的小行事曆.xml
+C:\Users\YunHong\Desktop\工科程式設計\105年模擬二(家和屆)\試題四：我的小行事曆\試題四：我的小行事曆\obj\Debug\試題四：我的小行事曆.pdb

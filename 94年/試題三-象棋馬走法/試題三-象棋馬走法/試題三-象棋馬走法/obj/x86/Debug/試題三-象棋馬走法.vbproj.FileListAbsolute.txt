@@ -1,0 +1,8 @@
+C:\Users\USER\Desktop\工科程式設計\94年\試題三-象棋馬走法\試題三-象棋馬走法\試題三-象棋馬走法\bin\Debug\試題三-象棋馬走法.exe
+C:\Users\USER\Desktop\工科程式設計\94年\試題三-象棋馬走法\試題三-象棋馬走法\試題三-象棋馬走法\bin\Debug\試題三-象棋馬走法.pdb
+C:\Users\USER\Desktop\工科程式設計\94年\試題三-象棋馬走法\試題三-象棋馬走法\試題三-象棋馬走法\bin\Debug\試題三-象棋馬走法.xml
+C:\Users\USER\Desktop\工科程式設計\94年\試題三-象棋馬走法\試題三-象棋馬走法\試題三-象棋馬走法\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\USER\Desktop\工科程式設計\94年\試題三-象棋馬走法\試題三-象棋馬走法\試題三-象棋馬走法\obj\x86\Debug\試題三-象棋馬走法.vbproj.GenerateResource.Cache
+C:\Users\USER\Desktop\工科程式設計\94年\試題三-象棋馬走法\試題三-象棋馬走法\試題三-象棋馬走法\obj\x86\Debug\試題三-象棋馬走法.exe
+C:\Users\USER\Desktop\工科程式設計\94年\試題三-象棋馬走法\試題三-象棋馬走法\試題三-象棋馬走法\obj\x86\Debug\試題三-象棋馬走法.xml
+C:\Users\USER\Desktop\工科程式設計\94年\試題三-象棋馬走法\試題三-象棋馬走法\試題三-象棋馬走法\obj\x86\Debug\試題三-象棋馬走法.pdb

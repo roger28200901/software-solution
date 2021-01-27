@@ -1,0 +1,18 @@
+C:\Users\STDA\AppData\Local\Temporary Projects\07_Q2\bin\Debug\07_Q2.exe
+C:\Users\STDA\AppData\Local\Temporary Projects\07_Q2\bin\Debug\07_Q2.pdb
+C:\Users\STDA\AppData\Local\Temporary Projects\07_Q2\bin\Debug\07_Q2.xml
+C:\Users\STDA\AppData\Local\Temporary Projects\07_Q2\obj\x86\Debug\_07_Q2.Form1.resources
+C:\Users\STDA\AppData\Local\Temporary Projects\07_Q2\obj\x86\Debug\_07_Q2.Resources.resources
+C:\Users\STDA\AppData\Local\Temporary Projects\07_Q2\obj\x86\Debug\07_Q2.vbproj.GenerateResource.Cache
+C:\Users\STDA\AppData\Local\Temporary Projects\07_Q2\obj\x86\Debug\07_Q2.exe
+C:\Users\STDA\AppData\Local\Temporary Projects\07_Q2\obj\x86\Debug\07_Q2.xml
+C:\Users\STDA\AppData\Local\Temporary Projects\07_Q2\obj\x86\Debug\07_Q2.pdb
+C:\Users\STDA\Desktop\新增資料夾\07_Q2\07_Q2\obj\x86\Debug\07_Q2.exe
+C:\Users\STDA\Desktop\新增資料夾\07_Q2\07_Q2\obj\x86\Debug\07_Q2.xml
+C:\Users\STDA\Desktop\新增資料夾\07_Q2\07_Q2\obj\x86\Debug\07_Q2.pdb
+C:\Users\STDA\Desktop\新增資料夾\07_Q2\07_Q2\bin\Debug\07_Q2.exe
+C:\Users\STDA\Desktop\新增資料夾\07_Q2\07_Q2\bin\Debug\07_Q2.pdb
+C:\Users\STDA\Desktop\新增資料夾\07_Q2\07_Q2\bin\Debug\07_Q2.xml
+C:\Users\STDA\Desktop\新增資料夾\07_Q2\07_Q2\obj\x86\Debug\_07_Q2.Form1.resources
+C:\Users\STDA\Desktop\新增資料夾\07_Q2\07_Q2\obj\x86\Debug\_07_Q2.Resources.resources
+C:\Users\STDA\Desktop\新增資料夾\07_Q2\07_Q2\obj\x86\Debug\07_Q2.vbproj.GenerateResource.Cache

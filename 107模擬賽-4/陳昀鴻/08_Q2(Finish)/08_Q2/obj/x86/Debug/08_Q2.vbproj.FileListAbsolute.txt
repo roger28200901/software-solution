@@ -1,0 +1,9 @@
+C:\Users\STDA\Desktop\陳昀鴻\08_Q2\08_Q2\bin\Debug\08_Q2.exe
+C:\Users\STDA\Desktop\陳昀鴻\08_Q2\08_Q2\bin\Debug\08_Q2.pdb
+C:\Users\STDA\Desktop\陳昀鴻\08_Q2\08_Q2\bin\Debug\08_Q2.xml
+C:\Users\STDA\Desktop\陳昀鴻\08_Q2\08_Q2\obj\x86\Debug\WindowsApplication2.Form1.resources
+C:\Users\STDA\Desktop\陳昀鴻\08_Q2\08_Q2\obj\x86\Debug\WindowsApplication2.Resources.resources
+C:\Users\STDA\Desktop\陳昀鴻\08_Q2\08_Q2\obj\x86\Debug\08_Q2.vbproj.GenerateResource.Cache
+C:\Users\STDA\Desktop\陳昀鴻\08_Q2\08_Q2\obj\x86\Debug\08_Q2.exe
+C:\Users\STDA\Desktop\陳昀鴻\08_Q2\08_Q2\obj\x86\Debug\08_Q2.xml
+C:\Users\STDA\Desktop\陳昀鴻\08_Q2\08_Q2\obj\x86\Debug\08_Q2.pdb

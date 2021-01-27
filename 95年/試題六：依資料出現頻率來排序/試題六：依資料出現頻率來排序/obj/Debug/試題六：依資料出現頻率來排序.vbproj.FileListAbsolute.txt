@@ -1,0 +1,9 @@
+C:\Users\YunHong\Desktop\工科程式設計\95年\試題六：依資料出現頻率來排序\試題六：依資料出現頻率來排序\bin\Debug\試題六：依資料出現頻率來排序.exe.config
+C:\Users\YunHong\Desktop\工科程式設計\95年\試題六：依資料出現頻率來排序\試題六：依資料出現頻率來排序\bin\Debug\試題六：依資料出現頻率來排序.exe
+C:\Users\YunHong\Desktop\工科程式設計\95年\試題六：依資料出現頻率來排序\試題六：依資料出現頻率來排序\bin\Debug\試題六：依資料出現頻率來排序.pdb
+C:\Users\YunHong\Desktop\工科程式設計\95年\試題六：依資料出現頻率來排序\試題六：依資料出現頻率來排序\bin\Debug\試題六：依資料出現頻率來排序.xml
+C:\Users\YunHong\Desktop\工科程式設計\95年\試題六：依資料出現頻率來排序\試題六：依資料出現頻率來排序\obj\Debug\ConsoleApplication1.Resources.resources
+C:\Users\YunHong\Desktop\工科程式設計\95年\試題六：依資料出現頻率來排序\試題六：依資料出現頻率來排序\obj\Debug\試題六：依資料出現頻率來排序.vbproj.GenerateResource.Cache
+C:\Users\YunHong\Desktop\工科程式設計\95年\試題六：依資料出現頻率來排序\試題六：依資料出現頻率來排序\obj\Debug\試題六：依資料出現頻率來排序.exe
+C:\Users\YunHong\Desktop\工科程式設計\95年\試題六：依資料出現頻率來排序\試題六：依資料出現頻率來排序\obj\Debug\試題六：依資料出現頻率來排序.xml
+C:\Users\YunHong\Desktop\工科程式設計\95年\試題六：依資料出現頻率來排序\試題六：依資料出現頻率來排序\obj\Debug\試題六：依資料出現頻率來排序.pdb

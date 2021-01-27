@@ -1,0 +1,11 @@
+C:\Users\YunHong\Desktop\工科程式設計\102年\試題六-多矩陣相乘運算次數\試題六-多矩陣相乘運算次數\bin\Debug\試題六-多矩陣相乘運算次數.exe.config
+C:\Users\YunHong\Desktop\工科程式設計\102年\試題六-多矩陣相乘運算次數\試題六-多矩陣相乘運算次數\bin\Debug\試題六-多矩陣相乘運算次數.exe
+C:\Users\YunHong\Desktop\工科程式設計\102年\試題六-多矩陣相乘運算次數\試題六-多矩陣相乘運算次數\bin\Debug\試題六-多矩陣相乘運算次數.pdb
+C:\Users\YunHong\Desktop\工科程式設計\102年\試題六-多矩陣相乘運算次數\試題六-多矩陣相乘運算次數\bin\Debug\試題六-多矩陣相乘運算次數.xml
+C:\Users\YunHong\Desktop\工科程式設計\102年\試題六-多矩陣相乘運算次數\試題六-多矩陣相乘運算次數\obj\Debug\試題六-多矩陣相乘運算次數.vbprojResolveAssemblyReference.cache
+C:\Users\YunHong\Desktop\工科程式設計\102年\試題六-多矩陣相乘運算次數\試題六-多矩陣相乘運算次數\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\YunHong\Desktop\工科程式設計\102年\試題六-多矩陣相乘運算次數\試題六-多矩陣相乘運算次數\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\YunHong\Desktop\工科程式設計\102年\試題六-多矩陣相乘運算次數\試題六-多矩陣相乘運算次數\obj\Debug\試題六-多矩陣相乘運算次數.vbproj.GenerateResource.Cache
+C:\Users\YunHong\Desktop\工科程式設計\102年\試題六-多矩陣相乘運算次數\試題六-多矩陣相乘運算次數\obj\Debug\試題六-多矩陣相乘運算次數.exe
+C:\Users\YunHong\Desktop\工科程式設計\102年\試題六-多矩陣相乘運算次數\試題六-多矩陣相乘運算次數\obj\Debug\試題六-多矩陣相乘運算次數.xml
+C:\Users\YunHong\Desktop\工科程式設計\102年\試題六-多矩陣相乘運算次數\試題六-多矩陣相乘運算次數\obj\Debug\試題六-多矩陣相乘運算次數.pdb

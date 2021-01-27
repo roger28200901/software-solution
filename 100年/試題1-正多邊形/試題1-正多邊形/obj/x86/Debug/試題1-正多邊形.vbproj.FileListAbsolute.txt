@@ -1,0 +1,9 @@
+C:\Users\USER\Desktop\工科程式設計\100年\試題1-正多邊形\試題1-正多邊形\bin\Debug\試題1-正多邊形.exe
+C:\Users\USER\Desktop\工科程式設計\100年\試題1-正多邊形\試題1-正多邊形\bin\Debug\試題1-正多邊形.pdb
+C:\Users\USER\Desktop\工科程式設計\100年\試題1-正多邊形\試題1-正多邊形\bin\Debug\試題1-正多邊形.xml
+C:\Users\USER\Desktop\工科程式設計\100年\試題1-正多邊形\試題1-正多邊形\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\USER\Desktop\工科程式設計\100年\試題1-正多邊形\試題1-正多邊形\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\USER\Desktop\工科程式設計\100年\試題1-正多邊形\試題1-正多邊形\obj\x86\Debug\試題1-正多邊形.vbproj.GenerateResource.Cache
+C:\Users\USER\Desktop\工科程式設計\100年\試題1-正多邊形\試題1-正多邊形\obj\x86\Debug\試題1-正多邊形.exe
+C:\Users\USER\Desktop\工科程式設計\100年\試題1-正多邊形\試題1-正多邊形\obj\x86\Debug\試題1-正多邊形.xml
+C:\Users\USER\Desktop\工科程式設計\100年\試題1-正多邊形\試題1-正多邊形\obj\x86\Debug\試題1-正多邊形.pdb

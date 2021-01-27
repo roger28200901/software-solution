@@ -1,0 +1,10 @@
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\105\試題四：有趣點和線的檢測\試題四：有趣點和線的檢測\bin\Debug\試題四：有趣點和線的檢測.exe.config
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\105\試題四：有趣點和線的檢測\試題四：有趣點和線的檢測\bin\Debug\試題四：有趣點和線的檢測.exe
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\105\試題四：有趣點和線的檢測\試題四：有趣點和線的檢測\bin\Debug\試題四：有趣點和線的檢測.pdb
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\105\試題四：有趣點和線的檢測\試題四：有趣點和線的檢測\bin\Debug\試題四：有趣點和線的檢測.xml
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\105\試題四：有趣點和線的檢測\試題四：有趣點和線的檢測\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\105\試題四：有趣點和線的檢測\試題四：有趣點和線的檢測\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\105\試題四：有趣點和線的檢測\試題四：有趣點和線的檢測\obj\Debug\試題四：有趣點和線的檢測.vbproj.GenerateResource.Cache
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\105\試題四：有趣點和線的檢測\試題四：有趣點和線的檢測\obj\Debug\試題四：有趣點和線的檢測.exe
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\105\試題四：有趣點和線的檢測\試題四：有趣點和線的檢測\obj\Debug\試題四：有趣點和線的檢測.xml
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\105\試題四：有趣點和線的檢測\試題四：有趣點和線的檢測\obj\Debug\試題四：有趣點和線的檢測.pdb

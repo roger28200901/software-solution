@@ -1,0 +1,11 @@
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\99\試題一：猜數字遊戲\試題一：猜數字遊戲\bin\Debug\試題一：猜數字遊戲.exe.config
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\99\試題一：猜數字遊戲\試題一：猜數字遊戲\bin\Debug\試題一：猜數字遊戲.exe
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\99\試題一：猜數字遊戲\試題一：猜數字遊戲\bin\Debug\試題一：猜數字遊戲.pdb
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\99\試題一：猜數字遊戲\試題一：猜數字遊戲\bin\Debug\試題一：猜數字遊戲.xml
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\99\試題一：猜數字遊戲\試題一：猜數字遊戲\obj\Debug\試題一：猜數字遊戲.vbprojResolveAssemblyReference.cache
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\99\試題一：猜數字遊戲\試題一：猜數字遊戲\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\99\試題一：猜數字遊戲\試題一：猜數字遊戲\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\99\試題一：猜數字遊戲\試題一：猜數字遊戲\obj\Debug\試題一：猜數字遊戲.vbproj.GenerateResource.Cache
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\99\試題一：猜數字遊戲\試題一：猜數字遊戲\obj\Debug\試題一：猜數字遊戲.exe
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\99\試題一：猜數字遊戲\試題一：猜數字遊戲\obj\Debug\試題一：猜數字遊戲.xml
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\99\試題一：猜數字遊戲\試題一：猜數字遊戲\obj\Debug\試題一：猜數字遊戲.pdb

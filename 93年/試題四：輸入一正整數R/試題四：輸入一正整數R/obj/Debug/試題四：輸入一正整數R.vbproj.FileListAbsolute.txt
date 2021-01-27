@@ -1,0 +1,9 @@
+C:\Users\YunHong\Desktop\工科程式設計\93年\試題四：輸入一正整數R\試題四：輸入一正整數R\bin\Debug\試題四：輸入一正整數R.exe.config
+C:\Users\YunHong\Desktop\工科程式設計\93年\試題四：輸入一正整數R\試題四：輸入一正整數R\bin\Debug\試題四：輸入一正整數R.exe
+C:\Users\YunHong\Desktop\工科程式設計\93年\試題四：輸入一正整數R\試題四：輸入一正整數R\bin\Debug\試題四：輸入一正整數R.pdb
+C:\Users\YunHong\Desktop\工科程式設計\93年\試題四：輸入一正整數R\試題四：輸入一正整數R\bin\Debug\試題四：輸入一正整數R.xml
+C:\Users\YunHong\Desktop\工科程式設計\93年\試題四：輸入一正整數R\試題四：輸入一正整數R\obj\Debug\ConsoleApplication1.Resources.resources
+C:\Users\YunHong\Desktop\工科程式設計\93年\試題四：輸入一正整數R\試題四：輸入一正整數R\obj\Debug\試題四：輸入一正整數R.vbproj.GenerateResource.Cache
+C:\Users\YunHong\Desktop\工科程式設計\93年\試題四：輸入一正整數R\試題四：輸入一正整數R\obj\Debug\試題四：輸入一正整數R.exe
+C:\Users\YunHong\Desktop\工科程式設計\93年\試題四：輸入一正整數R\試題四：輸入一正整數R\obj\Debug\試題四：輸入一正整數R.xml
+C:\Users\YunHong\Desktop\工科程式設計\93年\試題四：輸入一正整數R\試題四：輸入一正整數R\obj\Debug\試題四：輸入一正整數R.pdb

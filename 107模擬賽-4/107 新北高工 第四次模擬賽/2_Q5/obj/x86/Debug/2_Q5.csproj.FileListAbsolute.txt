@@ -1,0 +1,7 @@
+C:\Users\STDA\Desktop\107-4\2_Q5\bin\Debug\2_Q5.exe
+C:\Users\STDA\Desktop\107-4\2_Q5\bin\Debug\2_Q5.pdb
+C:\Users\STDA\Desktop\107-4\2_Q5\obj\x86\Debug\_2_Q5.Form1.resources
+C:\Users\STDA\Desktop\107-4\2_Q5\obj\x86\Debug\_2_Q5.Properties.Resources.resources
+C:\Users\STDA\Desktop\107-4\2_Q5\obj\x86\Debug\2_Q5.csproj.GenerateResource.Cache
+C:\Users\STDA\Desktop\107-4\2_Q5\obj\x86\Debug\2_Q5.exe
+C:\Users\STDA\Desktop\107-4\2_Q5\obj\x86\Debug\2_Q5.pdb

@@ -1,0 +1,10 @@
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\107\試題四：簡易最適配置法之記憶體管理\試題四：簡易最適配置法之記憶體管理\bin\Debug\試題四：簡易最適配置法之記憶體管理.exe.config
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\107\試題四：簡易最適配置法之記憶體管理\試題四：簡易最適配置法之記憶體管理\bin\Debug\試題四：簡易最適配置法之記憶體管理.exe
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\107\試題四：簡易最適配置法之記憶體管理\試題四：簡易最適配置法之記憶體管理\bin\Debug\試題四：簡易最適配置法之記憶體管理.pdb
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\107\試題四：簡易最適配置法之記憶體管理\試題四：簡易最適配置法之記憶體管理\bin\Debug\試題四：簡易最適配置法之記憶體管理.xml
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\107\試題四：簡易最適配置法之記憶體管理\試題四：簡易最適配置法之記憶體管理\obj\Debug\試題四：簡易最適配置法之記憶體管理.vbprojResolveAssemblyReference.cache
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\107\試題四：簡易最適配置法之記憶體管理\試題四：簡易最適配置法之記憶體管理\obj\Debug\ConsoleApplication1.Resources.resources
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\107\試題四：簡易最適配置法之記憶體管理\試題四：簡易最適配置法之記憶體管理\obj\Debug\試題四：簡易最適配置法之記憶體管理.vbproj.GenerateResource.Cache
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\107\試題四：簡易最適配置法之記憶體管理\試題四：簡易最適配置法之記憶體管理\obj\Debug\試題四：簡易最適配置法之記憶體管理.exe
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\107\試題四：簡易最適配置法之記憶體管理\試題四：簡易最適配置法之記憶體管理\obj\Debug\試題四：簡易最適配置法之記憶體管理.xml
+C:\Users\YunHong\Desktop\工科程式設計\電腦軟體設計(高工組)\107\試題四：簡易最適配置法之記憶體管理\試題四：簡易最適配置法之記憶體管理\obj\Debug\試題四：簡易最適配置法之記憶體管理.pdb

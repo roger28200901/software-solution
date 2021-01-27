@@ -1,0 +1,11 @@
+C:\Users\USER\Desktop\電腦軟體設計\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+C:\Users\USER\Desktop\電腦軟體設計\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\USER\Desktop\電腦軟體設計\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\USER\Desktop\電腦軟體設計\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\USER\Desktop\電腦軟體設計\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\電腦軟體設計\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+C:\Users\USER\Desktop\電腦軟體設計\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+C:\Users\USER\Desktop\電腦軟體設計\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\USER\Desktop\電腦軟體設計\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\USER\Desktop\電腦軟體設計\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+C:\Users\USER\Desktop\電腦軟體設計\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
